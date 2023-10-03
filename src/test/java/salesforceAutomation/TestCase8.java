@@ -17,6 +17,7 @@ public class TestCase8 {
 		Thread.sleep(3000);
 		String parent = driver.getWindowHandle();
 		driver.switchTo().window(parent);
+		System.out.println("Developer Console Window is Displayed");
 		driver.close();
 	}
 

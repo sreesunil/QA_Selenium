@@ -32,9 +32,9 @@ public class TestCase9 {
 		driver.findElement(By.linkText("Logout")).click();
 		
 		Thread.sleep(3000);
-		String Expected = "Log In";
+		String Expected = "Login | Salesforce";
 		Thread.sleep(4000);
-		String Actual = driver.findElement(By.id("Login")).getText();
+		String Actual = driver.getTitle();
 		
 		if(Actual.equals(Expected)) {
 			System.out.println("Passed");

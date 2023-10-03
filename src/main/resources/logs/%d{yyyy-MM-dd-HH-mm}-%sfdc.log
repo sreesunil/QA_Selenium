@@ -1,0 +1,2178 @@
+2023-09-04-18:50:21 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-04-18:50:21 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-04-18:50:21 INFO  BaseTest:setup: LoginTest03 Test object for reporting is Created
+2023-09-04-18:50:23 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-04-18:50:23 INFO  LoginPage : selectRememberMeCheckBox : Ended 
+2023-09-04-19:00:15 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-04-19:00:15 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-04-19:00:18 INFO  LoginPage : LoginToApp : Closed 
+2023-09-04-19:00:18 INFO  BaseTest:setup: Testcase12 Test object for reporting is Created
+2023-09-04-19:00:28 INFO  Account Viewname Updated
+2023-09-04-19:00:29 WARN  Account Viewname not Updated
+2023-09-04-19:08:38 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-04-19:08:38 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-04-19:09:22 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-04-19:09:22 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-04-19:10:00 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-04-19:10:00 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-04-19:10:02 INFO  LoginPage : LoginToApp : Closed 
+2023-09-04-19:10:02 INFO  BaseTest:setup: TestCase13 Test object for reporting is Created
+2023-09-04-19:27:15 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-04-19:27:15 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-04-19:27:24 INFO  LoginPage : LoginToApp : Closed 
+2023-09-04-19:27:24 INFO  BaseTest:setup: TestCase13 Test object for reporting is Created
+2023-09-04-19:41:27 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-04-19:41:27 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-04-19:41:29 INFO  LoginPage : LoginToApp : Closed 
+2023-09-04-19:41:29 INFO  BaseTest:setup: TestCase13 Test object for reporting is Created
+2023-09-04-19:44:54 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-04-19:44:54 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-04-19:45:02 INFO  LoginPage : LoginToApp : Closed 
+2023-09-04-19:45:02 INFO  BaseTest:setup: TestCase13 Test object for reporting is Created
+2023-09-04-21:13:54 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-04-21:13:54 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-04-21:13:56 INFO  LoginPage : LoginToApp : Closed 
+2023-09-04-21:13:56 INFO  BaseTest:setup: TestCase13 Test object for reporting is Created
+2023-09-04-21:16:38 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-04-21:16:38 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-04-21:16:40 INFO  LoginPage : LoginToApp : Closed 
+2023-09-04-21:16:40 INFO  BaseTest:setup: TestCase13 Test object for reporting is Created
+2023-09-04-22:05:16 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-04-22:05:16 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-04-22:05:18 INFO  LoginPage : LoginToApp : Closed 
+2023-09-04-22:05:19 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-05-08:01:57 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-08:01:57 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-08:02:10 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-08:02:10 INFO  BaseTest:setup: TestCase13 Test object for reporting is Created
+2023-09-05-09:22:49 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-09:22:49 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-09:22:56 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-09:22:56 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-05-16:52:30 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-16:52:30 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-16:52:32 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-16:52:32 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-05-17:17:53 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-17:17:53 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-17:18:01 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-17:18:01 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-05-17:19:43 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-17:19:43 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-17:19:49 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-17:19:49 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-05-17:24:23 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-17:24:23 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-17:24:26 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-17:24:26 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-05-17:33:18 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-17:33:18 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-17:33:20 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-17:33:20 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-05-17:48:20 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-17:48:20 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-17:48:28 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-17:48:28 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-05-18:02:01 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-18:02:01 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-18:02:08 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-18:02:08 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-05-18:11:48 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-18:11:48 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-18:11:57 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-18:11:57 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-05-18:13:23 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-18:13:23 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-18:13:26 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-18:13:26 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-05-18:15:46 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-18:15:46 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-18:15:49 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-18:15:49 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-05-18:19:01 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-18:19:01 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-18:19:03 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-18:19:03 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-05-18:19:13 INFO  Page : New Report created 
+2023-09-05-18:26:02 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-18:26:02 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-18:26:05 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-18:26:05 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-05-18:26:18 INFO  Page : assaigned InputValue 
+2023-09-05-18:26:18 INFO  Page : assaigned InputValue 
+2023-09-05-18:26:18 INFO  Page : New Report created 
+2023-09-05-18:26:18 INFO  Page : assaigned InputValue 
+2023-09-05-18:26:19 INFO  Page : assaigned InputValue 
+2023-09-05-18:31:56 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-18:31:56 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-18:32:06 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-18:32:06 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-05-18:32:10 INFO  Page : assaigned InputValue 
+2023-09-05-18:32:10 INFO  Page : assaigned InputValue 
+2023-09-05-18:32:10 INFO  Page : New Report created 
+2023-09-05-18:32:11 INFO  Page : assaigned InputValue 
+2023-09-05-18:32:11 INFO  Page : assaigned InputValue 
+2023-09-05-18:34:39 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-18:34:39 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-18:34:41 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-18:34:41 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-05-18:34:50 INFO  Page : assaigned InputValue 
+2023-09-05-18:34:50 INFO  Page : assaigned InputValue 
+2023-09-05-18:34:51 INFO  Page : New Report created 
+2023-09-05-18:34:51 INFO  Page : assaigned InputValue 
+2023-09-05-18:34:51 INFO  Page : assaigned InputValue 
+2023-09-05-18:36:57 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-18:36:57 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-18:37:05 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-18:37:05 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-05-18:37:09 INFO  Page : assaigned InputValue 
+2023-09-05-18:37:09 INFO  Page : assaigned InputValue 
+2023-09-05-18:37:09 INFO  Page : New Report created 
+2023-09-05-18:37:10 INFO  Page : assaigned InputValue 
+2023-09-05-18:37:10 INFO  Page : assaigned InputValue 
+2023-09-05-18:37:10 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOExceptionTear down called
+2023-09-05-19:05:53 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-19:05:53 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-19:05:55 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-19:05:55 INFO  BaseTest:setup: TestCase15 Test object for reporting is Created
+2023-09-05-19:05:55 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase15()Tear down called
+2023-09-05-19:06:59 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-19:06:59 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-19:07:07 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-19:07:07 INFO  BaseTest:setup: TestCase15 Test object for reporting is Created
+2023-09-05-19:07:07 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase15()Tear down called
+2023-09-05-19:10:36 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-19:10:36 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-19:10:39 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-19:10:39 INFO  BaseTest:setup: TestCase15 Test object for reporting is Created
+2023-09-05-19:10:45 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase15()Tear down called
+2023-09-05-20:44:02 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-20:44:02 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-20:44:09 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-20:44:09 INFO  BaseTest:setup: TestCase15 Test object for reporting is Created
+2023-09-05-20:44:09 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase15() throws java.io.IOExceptionTear down called
+2023-09-05-20:45:55 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-20:45:55 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-20:46:02 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-20:46:02 INFO  BaseTest:setup: TestCase15 Test object for reporting is Created
+2023-09-05-20:46:03 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase15() throws java.io.IOExceptionTear down called
+2023-09-05-20:52:23 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-05-20:52:23 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-20:52:30 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-20:52:30 INFO  BaseTest:setup: TestCase15 Test object for reporting is Created
+2023-09-05-20:52:31 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase15() throws java.io.IOExceptionTear down called
+2023-09-05-21:13:50 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-05-21:13:50 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-21:13:58 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-21:13:58 INFO  BaseTest:setup: TestCase15 Test object for reporting is Created
+2023-09-05-21:14:00 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase15() throws java.io.IOExceptionTear down called
+2023-09-05-21:22:17 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-05-21:22:21 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-21:22:26 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-21:22:26 INFO  BaseTest:setup: TestCase15 Test object for reporting is Created
+2023-09-05-21:22:31 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase15() throws java.io.IOExceptionTear down called
+2023-09-05-22:01:20 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-05-22:01:28 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-22:01:36 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-22:01:36 INFO  BaseTest:setup: TestCase15 Test object for reporting is Created
+2023-09-05-22:01:38 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase15() throws java.io.IOExceptionTear down called
+2023-09-05-22:04:50 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-05-22:04:50 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-22:04:58 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-22:04:58 INFO  BaseTest:setup: TestCase15 Test object for reporting is Created
+2023-09-05-22:05:00 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase15() throws java.io.IOExceptionTear down called
+2023-09-05-22:28:38 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-05-22:28:38 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-22:28:50 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-22:28:50 INFO  BaseTest:setup: TestCase15 Test object for reporting is Created
+2023-09-05-22:28:52 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase15() throws java.io.IOExceptionTear down called
+2023-09-05-22:32:58 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-05-22:32:58 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-22:33:05 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-22:33:05 INFO  BaseTest:setup: TestCase15 Test object for reporting is Created
+2023-09-05-22:33:07 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase15() throws java.io.IOExceptionTear down called
+2023-09-05-22:46:10 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-05-22:46:10 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-22:46:14 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-22:46:14 INFO  BaseTest:setup: TestCase15 Test object for reporting is Created
+2023-09-05-22:46:19 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase15() throws java.io.IOExceptionTear down called
+2023-09-05-23:02:00 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-05-23:02:00 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-23:02:07 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-23:02:07 INFO  BaseTest:setup: TestCase16 Test object for reporting is Created
+2023-09-05-23:02:07 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase16()Tear down called
+2023-09-05-23:02:59 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-05-23:02:59 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-23:03:07 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-23:03:07 INFO  BaseTest:setup: TestCase16 Test object for reporting is Created
+2023-09-05-23:03:08 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase16()Tear down called
+2023-09-05-23:04:31 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-05-23:04:31 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-23:04:38 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-23:04:38 INFO  BaseTest:setup: TestCase16 Test object for reporting is Created
+2023-09-05-23:04:39 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase16()Tear down called
+2023-09-05-23:12:24 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-05-23:12:24 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-23:12:32 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-23:12:32 INFO  BaseTest:setup: TestCase16 Test object for reporting is Created
+2023-09-05-23:12:35 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase16()Tear down called
+2023-09-05-23:52:11 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-05-23:52:11 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-23:52:13 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-23:52:13 INFO  BaseTest:setup: TestCase16 Test object for reporting is Created
+2023-09-05-23:52:41 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-05-23:52:41 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-23:52:45 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-23:52:45 INFO  BaseTest:setup: TestCase16 Test object for reporting is Created
+2023-09-05-23:52:49 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase16() throws java.io.IOExceptionTear down called
+2023-09-05-23:57:52 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-05-23:57:52 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-05-23:57:59 INFO  LoginPage : LoginToApp : Closed 
+2023-09-05-23:57:59 INFO  BaseTest:setup: TestCase16 Test object for reporting is Created
+2023-09-05-23:58:01 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase16() throws java.io.IOExceptionTear down called
+2023-09-06-00:01:45 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-00:01:45 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-00:01:47 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-00:01:47 INFO  BaseTest:setup: TestCase16 Test object for reporting is Created
+2023-09-06-00:02:18 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-00:02:18 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-00:02:21 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-00:02:21 INFO  BaseTest:setup: TestCase16 Test object for reporting is Created
+2023-09-06-08:02:16 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-08:02:16 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-08:02:24 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-08:02:24 INFO  BaseTest:setup: TestCase17 Test object for reporting is Created
+2023-09-06-08:02:28 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase17()Tear down called
+2023-09-06-08:11:53 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-08:11:53 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-08:12:00 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-08:12:00 INFO  BaseTest:setup: TestCase18 Test object for reporting is Created
+2023-09-06-08:12:02 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase18()Tear down called
+2023-09-06-08:16:20 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-08:16:20 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-08:16:27 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-08:16:27 INFO  BaseTest:setup: TestCase18 Test object for reporting is Created
+2023-09-06-08:16:29 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase18()Tear down called
+2023-09-06-08:20:59 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-08:20:59 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-08:21:03 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-08:21:03 INFO  BaseTest:setup: TestCase19 Test object for reporting is Created
+2023-09-06-08:21:06 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase19()Tear down called
+2023-09-06-08:59:21 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-08:59:21 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-08:59:31 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-08:59:31 INFO  BaseTest:setup: TestCase19 Test object for reporting is Created
+2023-09-06-08:59:32 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase19()Tear down called
+2023-09-06-12:43:02 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-12:43:02 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-12:43:14 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-12:43:14 INFO  BaseTest:setup: TestCase19 Test object for reporting is Created
+2023-09-06-12:43:17 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase19()Tear down called
+2023-09-06-12:46:31 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-12:46:31 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-12:46:36 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-12:46:36 INFO  BaseTest:setup: TestCase19 Test object for reporting is Created
+2023-09-06-12:46:42 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase19()Tear down called
+2023-09-06-15:04:12 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-15:04:12 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-15:04:19 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-15:04:19 INFO  BaseTest:setup: TestCase20 Test object for reporting is Created
+2023-09-06-15:04:22 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase20()Tear down called
+2023-09-06-17:08:19 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-17:08:19 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-17:08:28 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-17:08:28 INFO  BaseTest:setup: TestCase20 Test object for reporting is Created
+2023-09-06-17:08:30 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase20() throws java.io.IOExceptionTear down called
+2023-09-06-17:10:43 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-17:10:43 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-17:10:47 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-17:10:47 INFO  BaseTest:setup: TestCase20 Test object for reporting is Created
+2023-09-06-17:10:51 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase20() throws java.io.IOExceptionTear down called
+2023-09-06-17:13:31 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-17:13:31 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-17:13:39 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-17:13:39 INFO  BaseTest:setup: TestCase20 Test object for reporting is Created
+2023-09-06-17:13:41 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase20() throws java.io.IOExceptionTear down called
+2023-09-06-17:15:08 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-17:15:08 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-17:15:13 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-17:15:13 INFO  BaseTest:setup: TestCase20 Test object for reporting is Created
+2023-09-06-17:15:17 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase20() throws java.io.IOExceptionTear down called
+2023-09-06-17:49:16 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-17:49:16 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-17:49:25 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-17:49:25 INFO  BaseTest:setup: TastCase22 Test object for reporting is Created
+2023-09-06-17:49:25 INFO  BaseTest:tearDown: public void test.LeadsTest.TastCase22()Tear down called
+2023-09-06-18:16:55 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-18:16:55 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-18:17:05 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-18:17:05 INFO  BaseTest:setup: TastCase22 Test object for reporting is Created
+2023-09-06-18:17:07 INFO  BaseTest:tearDown: public void test.LeadsTest.TastCase22()Tear down called
+2023-09-06-18:20:58 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-18:20:58 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-18:21:03 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-18:21:03 INFO  BaseTest:setup: TastCase22 Test object for reporting is Created
+2023-09-06-18:21:08 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-18:21:08 INFO  BaseTest:tearDown: public void test.LeadsTest.TastCase22() throws java.io.IOExceptionTear down called
+2023-09-06-18:34:25 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-18:34:25 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-18:34:34 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-18:34:34 INFO  BaseTest:setup: TastCase22 Test object for reporting is Created
+2023-09-06-18:34:37 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-18:39:07 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-18:39:07 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-18:39:14 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-18:39:14 INFO  BaseTest:setup: TastCase22 Test object for reporting is Created
+2023-09-06-18:39:17 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-18:39:18 INFO  BaseTest:tearDown: public void test.LeadsTest.TastCase22() throws java.io.IOExceptionTear down called
+2023-09-06-18:42:48 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-18:42:48 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-18:42:52 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-18:42:52 INFO  BaseTest:setup: TastCase22 Test object for reporting is Created
+2023-09-06-18:42:58 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-18:43:00 INFO  BaseTest:tearDown: public void test.LeadsTest.TastCase22() throws java.io.IOExceptionTear down called
+2023-09-06-18:46:31 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-18:46:31 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-18:46:38 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-18:46:38 INFO  BaseTest:setup: TastCase22 Test object for reporting is Created
+2023-09-06-18:46:41 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-18:46:43 INFO  BaseTest:tearDown: public void test.LeadsTest.TastCase22() throws java.io.IOExceptionTear down called
+2023-09-06-21:41:45 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-21:41:45 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-21:41:54 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-21:41:54 INFO  BaseTest:setup: TastCase22 Test object for reporting is Created
+2023-09-06-21:41:57 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-21:42:00 INFO  BaseTest:tearDown: public void test.LeadsTest.TastCase22() throws java.io.IOExceptionTear down called
+2023-09-06-21:42:00 INFO  BaseTest:setup: TestCase23 Test object for reporting is Created
+2023-09-06-21:42:00 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase23()Tear down called
+2023-09-06-21:45:58 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-21:45:58 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-21:46:03 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-21:46:03 INFO  BaseTest:setup: TestCase23 Test object for reporting is Created
+2023-09-06-21:46:11 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase23()Tear down called
+2023-09-06-21:47:49 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-21:47:49 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-21:47:54 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-21:47:54 INFO  BaseTest:setup: TestCase23 Test object for reporting is Created
+2023-09-06-21:47:58 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase23()Tear down called
+2023-09-06-21:51:25 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-21:51:25 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-21:51:33 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-21:51:33 INFO  BaseTest:setup: TestCase23 Test object for reporting is Created
+2023-09-06-21:51:35 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase23()Tear down called
+2023-09-06-22:17:51 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-22:17:51 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-22:18:02 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-22:18:02 INFO  BaseTest:setup: TestCase13 Test object for reporting is Created
+2023-09-06-22:18:04 INFO  Page : assaigned InputValue 
+2023-09-06-22:18:04 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase13() throws java.io.IOExceptionTear down called
+2023-09-06-22:44:10 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-22:44:10 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-22:44:19 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-22:44:19 INFO  BaseTest:setup: TestCase13 Test object for reporting is Created
+2023-09-06-22:44:25 INFO  Page : assaigned InputValue 
+2023-09-06-22:44:26 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase13() throws java.io.IOExceptionTear down called
+2023-09-06-22:46:05 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-22:46:05 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-22:46:13 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-22:46:13 INFO  BaseTest:setup: TestCase24 Test object for reporting is Created
+2023-09-06-22:46:16 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase24()Tear down called
+2023-09-06-22:56:06 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-22:56:06 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-22:56:11 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-22:56:11 INFO  BaseTest:setup: TestCase24 Test object for reporting is Created
+2023-09-06-22:56:13 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase24()Tear down called
+2023-09-06-23:03:50 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-23:03:50 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-23:03:59 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-23:03:59 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-06-23:04:05 INFO  Page : assaigned InputValue 
+2023-09-06-23:04:05 INFO  Page : assaigned InputValue 
+2023-09-06-23:04:05 INFO  Page : New Report created 
+2023-09-06-23:04:05 INFO  Page : assaigned InputValue 
+2023-09-06-23:04:05 INFO  Page : assaigned InputValue 
+2023-09-06-23:04:05 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOExceptionTear down called
+2023-09-06-23:05:38 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-23:05:38 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-23:05:42 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-23:05:42 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-06-23:05:48 INFO  Page : assaigned InputValue 
+2023-09-06-23:05:48 INFO  Page : assaigned InputValue 
+2023-09-06-23:05:48 INFO  Page : New Report created 
+2023-09-06-23:05:48 INFO  Page : assaigned InputValue 
+2023-09-06-23:05:48 INFO  Page : assaigned InputValue 
+2023-09-06-23:05:49 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOExceptionTear down called
+2023-09-06-23:06:56 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-23:06:56 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-23:07:01 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-23:07:01 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-06-23:07:07 INFO  Page : assaigned InputValue 
+2023-09-06-23:07:07 INFO  Page : assaigned InputValue 
+2023-09-06-23:07:07 INFO  Page : New Report created 
+2023-09-06-23:07:07 INFO  Page : assaigned InputValue 
+2023-09-06-23:07:07 INFO  Page : assaigned InputValue 
+2023-09-06-23:07:08 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOExceptionTear down called
+2023-09-06-23:09:06 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-23:09:06 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-23:09:11 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-23:09:11 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-06-23:09:21 INFO  Page : assaigned InputValue 
+2023-09-06-23:09:21 INFO  Page : assaigned InputValue 
+2023-09-06-23:09:21 INFO  Page : New Report created 
+2023-09-06-23:09:21 INFO  Page : assaigned InputValue 
+2023-09-06-23:09:21 INFO  Page : assaigned InputValue 
+2023-09-06-23:09:26 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-06-23:10:09 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-23:10:09 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-23:10:13 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-23:10:13 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-06-23:10:20 INFO  Page : assaigned InputValue 
+2023-09-06-23:10:20 INFO  Page : assaigned InputValue 
+2023-09-06-23:10:20 INFO  Page : New Report created 
+2023-09-06-23:10:20 INFO  Page : assaigned InputValue 
+2023-09-06-23:10:20 INFO  Page : assaigned InputValue 
+2023-09-06-23:10:25 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-06-23:15:12 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-23:15:12 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-23:15:19 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-23:15:19 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-06-23:15:24 INFO  Page : assaigned InputValue 
+2023-09-06-23:15:24 INFO  Page : assaigned InputValue 
+2023-09-06-23:15:24 INFO  Page : New Report created 
+2023-09-06-23:15:25 INFO  Page : assaigned InputValue 
+2023-09-06-23:15:25 INFO  Page : assaigned InputValue 
+2023-09-06-23:15:25 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-06-23:18:02 INFO  BaseTest : getBrowserType : Headless Firefox configured
+2023-09-06-23:18:02 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-23:18:11 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-23:18:11 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-06-23:18:15 INFO  Page : assaigned InputValue 
+2023-09-06-23:18:15 INFO  Page : assaigned InputValue 
+2023-09-06-23:18:16 INFO  Page : New Report created 
+2023-09-06-23:18:16 INFO  Page : assaigned InputValue 
+2023-09-06-23:18:16 INFO  Page : assaigned InputValue 
+2023-09-06-23:18:16 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-06-23:22:03 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-06-23:22:03 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-23:22:05 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-23:22:05 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-06-23:22:42 INFO  Page : assaigned InputValue 
+2023-09-06-23:22:42 INFO  Page : assaigned InputValue 
+2023-09-06-23:22:42 INFO  Page : New Report created 
+2023-09-06-23:22:42 INFO  Page : assaigned InputValue 
+2023-09-06-23:22:43 INFO  Page : assaigned InputValue 
+2023-09-06-23:22:43 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-06-23:23:40 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-06-23:23:40 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-23:23:42 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-23:23:42 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-06-23:24:04 INFO  Page : assaigned InputValue 
+2023-09-06-23:24:04 INFO  Page : assaigned InputValue 
+2023-09-06-23:24:04 INFO  Page : New Report created 
+2023-09-06-23:24:04 INFO  Page : assaigned InputValue 
+2023-09-06-23:24:04 INFO  Page : assaigned InputValue 
+2023-09-06-23:24:04 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-06-23:26:28 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-06-23:26:28 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-23:26:37 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-23:26:37 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-06-23:26:41 INFO  Page : assaigned InputValue 
+2023-09-06-23:26:41 INFO  Page : assaigned InputValue 
+2023-09-06-23:26:41 INFO  Page : New Report created 
+2023-09-06-23:26:41 INFO  Page : assaigned InputValue 
+2023-09-06-23:26:42 INFO  Page : assaigned InputValue 
+2023-09-06-23:26:42 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-06-23:30:05 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-06-23:30:05 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-23:30:07 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-23:30:07 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-06-23:30:16 INFO  Page : assaigned InputValue 
+2023-09-06-23:30:16 INFO  Page : assaigned InputValue 
+2023-09-06-23:30:16 INFO  Page : New Report created 
+2023-09-06-23:30:16 INFO  Page : assaigned InputValue 
+2023-09-06-23:30:16 INFO  Page : assaigned InputValue 
+2023-09-06-23:30:17 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-06-23:35:07 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-06-23:35:07 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-23:35:09 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-23:35:09 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-06-23:35:17 INFO  Page : assaigned InputValue 
+2023-09-06-23:35:18 INFO  Page : assaigned InputValue 
+2023-09-06-23:35:18 INFO  Page : New Report created 
+2023-09-06-23:35:18 INFO  Page : assaigned InputValue 
+2023-09-06-23:35:18 INFO  Page : assaigned InputValue 
+2023-09-06-23:35:18 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-06-23:36:19 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-06-23:36:19 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-06-23:36:27 INFO  LoginPage : LoginToApp : Closed 
+2023-09-06-23:36:27 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-06-23:36:30 INFO  Page : assaigned InputValue 
+2023-09-06-23:36:30 INFO  Page : assaigned InputValue 
+2023-09-06-23:36:30 INFO  Page : New Report created 
+2023-09-06-23:36:30 INFO  Page : assaigned InputValue 
+2023-09-06-23:36:30 INFO  Page : assaigned InputValue 
+2023-09-06-23:36:45 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-07:59:10 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-07:59:10 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-07:59:17 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-07:59:17 INFO  BaseTest:setup: TestCase24 Test object for reporting is Created
+2023-09-07-07:59:18 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase24()Tear down called
+2023-09-07-08:21:10 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-08:21:10 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-08:21:11 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-08:21:11 INFO  BaseTest:setup: TestCase24 Test object for reporting is Created
+2023-09-07-08:21:19 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase24()Tear down called
+2023-09-07-08:40:33 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-08:40:33 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-08:40:40 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-08:40:40 INFO  BaseTest:setup: TestCase24 Test object for reporting is Created
+2023-09-07-08:40:42 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase24()Tear down called
+2023-09-07-08:54:26 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-08:54:26 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-08:54:34 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-08:54:34 INFO  BaseTest:setup: TestCase24 Test object for reporting is Created
+2023-09-07-08:54:35 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase24()Tear down called
+2023-09-07-08:57:03 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-08:57:03 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-08:57:10 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-08:57:10 INFO  BaseTest:setup: TestCase24 Test object for reporting is Created
+2023-09-07-08:57:12 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase24()Tear down called
+2023-09-07-09:01:18 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-09:01:18 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-09:01:26 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-09:01:26 INFO  BaseTest:setup: TestCase24 Test object for reporting is Created
+2023-09-07-09:01:27 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase24()Tear down called
+2023-09-07-09:06:06 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-09:06:06 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-09:06:08 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-09:06:08 INFO  BaseTest:setup: TestCase24 Test object for reporting is Created
+2023-09-07-09:06:15 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase24()Tear down called
+2023-09-07-09:09:23 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-09:09:23 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-09:09:29 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-09:09:29 INFO  BaseTest:setup: TestCase24 Test object for reporting is Created
+2023-09-07-09:09:30 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase24()Tear down called
+2023-09-07-09:11:04 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-09:11:04 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-09:11:06 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-09:11:06 INFO  BaseTest:setup: TestCase24 Test object for reporting is Created
+2023-09-07-09:11:13 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase24()Tear down called
+2023-09-07-12:52:14 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-12:52:14 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-12:52:15 INFO  LoginPage : loginToApp : started
+2023-09-07-12:52:22 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-12:52:22 INFO  BaseTest:setup: TestCase13 Test object for reporting is Created
+2023-09-07-12:52:25 INFO  Page : assaigned InputValue 
+2023-09-07-12:52:26 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase13() throws java.io.IOExceptionTear down called
+2023-09-07-14:00:15 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-14:00:15 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-14:00:16 INFO  LoginPage : loginToApp : started
+2023-09-07-14:00:17 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-14:00:17 INFO  BaseTest:setup: TestCase13 Test object for reporting is Created
+2023-09-07-14:00:25 INFO  Page : assaigned InputValue 
+2023-09-07-14:00:27 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase13() throws java.io.IOExceptionTear down called
+2023-09-07-14:00:27 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-14:00:27 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-14:00:53 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-14:00:53 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-14:00:55 INFO  LoginPage : loginToApp : started
+2023-09-07-14:00:55 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-14:00:55 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-14:01:05 INFO  Page : assaigned InputValue 
+2023-09-07-14:01:06 INFO  Page : assaigned InputValue 
+2023-09-07-14:01:06 INFO  Page : New Report created 
+2023-09-07-14:01:06 INFO  Page : assaigned InputValue 
+2023-09-07-14:01:06 INFO  Page : assaigned InputValue 
+2023-09-07-14:01:07 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-14:57:09 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-14:57:09 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-14:57:11 INFO  LoginPage : loginToApp : started
+2023-09-07-14:57:12 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-14:57:12 INFO  BaseTest:setup: TestCase24 Test object for reporting is Created
+2023-09-07-14:57:19 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase24(java.lang.reflect.Method)Tear down called
+2023-09-07-14:59:58 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-14:59:58 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-15:00:00 INFO  LoginPage : loginToApp : started
+2023-09-07-15:00:01 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-15:00:01 INFO  BaseTest:setup: TestCase24 Test object for reporting is Created
+2023-09-07-15:00:10 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase24(java.lang.reflect.Method)Tear down called
+2023-09-07-15:17:57 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-15:17:57 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-15:17:58 INFO  LoginPage : loginToApp : started
+2023-09-07-15:17:59 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-15:17:59 INFO  BaseTest:setup: TastCase25 Test object for reporting is Created
+2023-09-07-15:18:05 INFO  BaseTest:tearDown: public void test.ContactsTest.TastCase25()Tear down called
+2023-09-07-17:46:37 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-17:46:37 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-17:46:38 INFO  LoginPage : loginToApp : started
+2023-09-07-17:46:39 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-17:46:39 INFO  BaseTest:setup: TastCase25 Test object for reporting is Created
+2023-09-07-17:46:45 INFO  BaseTest:tearDown: public void test.ContactsTest.TastCase25()Tear down called
+2023-09-07-17:56:42 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-17:56:42 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-17:56:45 INFO  LoginPage : loginToApp : started
+2023-09-07-17:56:46 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-17:56:46 INFO  BaseTest:setup: TastCase25 Test object for reporting is Created
+2023-09-07-17:57:25 INFO  Page : assaigned InputValue 
+2023-09-07-17:57:25 INFO  Page : assaigned InputValue 
+2023-09-07-17:57:26 INFO  BaseTest:tearDown: public void test.ContactsTest.TastCase25()Tear down called
+2023-09-07-17:58:56 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-17:58:56 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-17:58:57 INFO  LoginPage : loginToApp : started
+2023-09-07-17:58:58 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-17:58:58 INFO  BaseTest:setup: TastCase25 Test object for reporting is Created
+2023-09-07-17:59:06 INFO  Page : assaigned InputValue 
+2023-09-07-17:59:07 INFO  Page : assaigned InputValue 
+2023-09-07-17:59:08 INFO  BaseTest:tearDown: public void test.ContactsTest.TastCase25()Tear down called
+2023-09-07-18:09:20 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-18:09:20 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-18:09:22 INFO  LoginPage : loginToApp : started
+2023-09-07-18:09:22 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-18:09:22 INFO  BaseTest:setup: TastCase25 Test object for reporting is Created
+2023-09-07-18:09:31 INFO  Page : assaigned InputValue 
+2023-09-07-18:09:31 INFO  Page : assaigned InputValue 
+2023-09-07-18:09:33 INFO  BaseTest:tearDown: public void test.ContactsTest.TastCase25()Tear down called
+2023-09-07-18:14:56 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-18:14:56 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-18:14:58 INFO  LoginPage : loginToApp : started
+2023-09-07-18:14:58 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-18:14:58 INFO  BaseTest:setup: TestCase26 Test object for reporting is Created
+2023-09-07-18:15:05 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase26()Tear down called
+2023-09-07-18:49:55 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-18:49:55 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-18:49:57 INFO  LoginPage : loginToApp : started
+2023-09-07-18:49:57 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-18:49:57 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-18:50:07 INFO  Page : assaigned InputValue 
+2023-09-07-18:50:08 INFO  Page : assaigned InputValue 
+2023-09-07-18:50:08 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-18:50:08 INFO  Page : assaigned InputValue 
+2023-09-07-18:50:08 INFO  Page : assaigned InputValue 
+2023-09-07-18:50:08 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-18:50:45 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-18:50:45 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-18:50:45 INFO  BaseTest:setup: loginTest03 Test object for reporting is Created
+2023-09-07-18:50:47 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-07-18:50:47 INFO  LoginPage : selectRememberMeCheckBox : Ended 
+2023-09-07-18:50:47 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest03() throws org.apache.poi.openxml4j.exceptions.InvalidFormatException,java.io.IOExceptionTear down called
+2023-09-07-18:54:29 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-18:54:29 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-18:54:29 INFO  BaseTest:setup: loginTest03 Test object for reporting is Created
+2023-09-07-18:54:31 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-07-18:54:31 INFO  LoginPage : selectRememberMeCheckBox : Ended 
+2023-09-07-18:54:31 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest03() throws org.apache.poi.openxml4j.exceptions.InvalidFormatException,java.io.IOExceptionTear down called
+2023-09-07-18:57:24 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-18:57:24 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-18:57:25 INFO  LoginPage : loginToApp : started
+2023-09-07-18:57:32 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-18:57:32 INFO  BaseTest:setup: TestCase26 Test object for reporting is Created
+2023-09-07-18:57:33 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase26()Tear down called
+2023-09-07-19:02:43 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-19:02:43 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-19:02:45 INFO  LoginPage : loginToApp : started
+2023-09-07-19:02:52 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-19:02:52 INFO  BaseTest:setup: TestCase26 Test object for reporting is Created
+2023-09-07-19:03:52 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-19:03:52 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-19:03:54 INFO  LoginPage : loginToApp : started
+2023-09-07-19:04:01 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-19:04:01 INFO  BaseTest:setup: TestCase26 Test object for reporting is Created
+2023-09-07-19:06:43 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-19:06:43 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-19:06:45 INFO  LoginPage : loginToApp : started
+2023-09-07-19:06:45 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-19:06:45 INFO  BaseTest:setup: TestCase26 Test object for reporting is Created
+2023-09-07-19:06:55 INFO  Page : assaigned InputValue 
+2023-09-07-19:06:55 INFO  Page : assaigned InputValue 
+2023-09-07-19:06:56 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase26() throws java.io.IOExceptionTear down called
+2023-09-07-19:07:55 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-19:07:55 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-19:07:56 INFO  LoginPage : loginToApp : started
+2023-09-07-19:08:03 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-19:08:03 INFO  BaseTest:setup: TestCase26 Test object for reporting is Created
+2023-09-07-19:08:06 INFO  Page : assaigned InputValue 
+2023-09-07-19:08:06 INFO  Page : assaigned InputValue 
+2023-09-07-19:08:08 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase26() throws java.io.IOExceptionTear down called
+2023-09-07-19:26:59 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-19:26:59 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-19:27:01 INFO  LoginPage : loginToApp : started
+2023-09-07-19:27:02 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-19:27:02 INFO  BaseTest:setup: TestCase27 Test object for reporting is Created
+2023-09-07-19:27:09 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase27()Tear down called
+2023-09-07-19:30:00 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-19:30:00 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-19:30:01 INFO  LoginPage : loginToApp : started
+2023-09-07-19:30:02 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-19:30:02 INFO  BaseTest:setup: TestCase27 Test object for reporting is Created
+2023-09-07-19:30:10 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase27()Tear down called
+2023-09-07-19:33:17 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-19:33:17 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-19:33:19 INFO  LoginPage : loginToApp : started
+2023-09-07-19:33:20 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-19:33:20 INFO  BaseTest:setup: TestCase27 Test object for reporting is Created
+2023-09-07-19:33:27 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase27()Tear down called
+2023-09-07-20:34:10 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-20:34:10 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-20:34:11 INFO  LoginPage : loginToApp : started
+2023-09-07-20:34:12 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-20:34:12 INFO  BaseTest:setup: TestCase33 Test object for reporting is Created
+2023-09-07-20:34:19 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase33()Tear down called
+2023-09-07-20:56:59 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-20:56:59 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-20:57:01 INFO  LoginPage : loginToApp : started
+2023-09-07-20:57:08 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-20:57:08 INFO  BaseTest:setup: TestCase33 Test object for reporting is Created
+2023-09-07-20:57:10 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase33()Tear down called
+2023-09-07-21:00:21 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-21:00:21 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-21:00:22 INFO  LoginPage : loginToApp : started
+2023-09-07-21:00:32 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-21:00:32 INFO  BaseTest:setup: TestCase33 Test object for reporting is Created
+2023-09-07-21:00:34 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase33()Tear down called
+2023-09-07-21:02:56 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-21:02:56 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-21:02:58 INFO  LoginPage : loginToApp : started
+2023-09-07-21:03:05 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-21:03:05 INFO  BaseTest:setup: TestCase33 Test object for reporting is Created
+2023-09-07-21:03:08 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase33()Tear down called
+2023-09-07-22:13:08 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-22:13:08 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-22:13:10 INFO  LoginPage : loginToApp : started
+2023-09-07-22:13:11 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-22:13:11 INFO  BaseTest:setup: TestCase31 Test object for reporting is Created
+2023-09-07-22:13:18 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase31()Tear down called
+2023-09-07-22:45:15 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-22:45:15 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-22:45:17 INFO  LoginPage : loginToApp : started
+2023-09-07-22:45:18 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-22:45:18 INFO  BaseTest:setup: TestCase31 Test object for reporting is Created
+2023-09-07-22:45:29 INFO  Page : assaigned InputValue 
+2023-09-07-22:45:29 INFO  Page : assaigned InputValue 
+2023-09-07-22:45:30 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase31() throws java.io.IOExceptionTear down called
+2023-09-07-22:50:04 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-22:50:04 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-22:50:06 INFO  LoginPage : loginToApp : started
+2023-09-07-22:50:07 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-22:50:07 INFO  BaseTest:setup: TestCase31 Test object for reporting is Created
+2023-09-07-22:50:16 INFO  Page : assaigned InputValue 
+2023-09-07-22:50:16 INFO  Page : assaigned InputValue 
+2023-09-07-22:50:17 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase31() throws java.io.IOExceptionTear down called
+2023-09-07-23:02:54 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:02:54 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:02:56 INFO  LoginPage : loginToApp : started
+2023-09-07-23:03:02 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:03:02 INFO  BaseTest:setup: TestCase13 Test object for reporting is Created
+2023-09-07-23:03:06 INFO  Page : assaigned InputValue 
+2023-09-07-23:03:11 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase13() throws java.io.IOExceptionTear down called
+2023-09-07-23:03:11 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:03:17 INFO  Page : assaigned InputValue 
+2023-09-07-23:03:17 INFO  Page : assaigned InputValue 
+2023-09-07-23:03:17 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:03:17 INFO  Page : assaigned InputValue 
+2023-09-07-23:03:18 INFO  Page : assaigned InputValue 
+2023-09-07-23:03:18 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:05:12 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:05:12 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:05:14 INFO  LoginPage : loginToApp : started
+2023-09-07-23:05:15 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:05:15 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:05:26 INFO  Page : assaigned InputValue 
+2023-09-07-23:05:26 INFO  Page : assaigned InputValue 
+2023-09-07-23:05:27 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:05:27 INFO  Page : assaigned InputValue 
+2023-09-07-23:05:27 INFO  Page : assaigned InputValue 
+2023-09-07-23:05:27 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:07:38 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:07:38 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:07:40 INFO  LoginPage : loginToApp : started
+2023-09-07-23:07:40 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:07:40 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:08:02 INFO  Page : assaigned InputValue 
+2023-09-07-23:08:02 INFO  Page : assaigned InputValue 
+2023-09-07-23:08:02 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:08:02 INFO  Page : assaigned InputValue 
+2023-09-07-23:08:03 INFO  Page : assaigned InputValue 
+2023-09-07-23:08:03 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:09:11 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:09:11 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:09:12 INFO  LoginPage : loginToApp : started
+2023-09-07-23:09:13 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:09:13 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:09:24 INFO  Page : assaigned InputValue 
+2023-09-07-23:09:25 INFO  Page : assaigned InputValue 
+2023-09-07-23:09:25 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:09:25 INFO  Page : assaigned InputValue 
+2023-09-07-23:09:25 INFO  Page : assaigned InputValue 
+2023-09-07-23:09:25 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:14:52 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:14:52 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:14:54 INFO  LoginPage : loginToApp : started
+2023-09-07-23:15:02 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:15:02 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:15:09 INFO  Page : assaigned InputValue 
+2023-09-07-23:15:09 INFO  Page : assaigned InputValue 
+2023-09-07-23:15:09 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:15:09 INFO  Page : assaigned InputValue 
+2023-09-07-23:15:10 INFO  Page : assaigned InputValue 
+2023-09-07-23:15:10 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:21:24 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:21:24 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:21:26 INFO  LoginPage : loginToApp : started
+2023-09-07-23:21:27 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:21:27 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:21:43 INFO  Page : assaigned InputValue 
+2023-09-07-23:21:43 INFO  Page : assaigned InputValue 
+2023-09-07-23:21:44 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:21:44 INFO  Page : assaigned InputValue 
+2023-09-07-23:21:44 INFO  Page : assaigned InputValue 
+2023-09-07-23:21:45 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:26:13 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:26:13 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:26:14 INFO  LoginPage : loginToApp : started
+2023-09-07-23:26:15 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:26:15 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:26:26 INFO  Page : assaigned InputValue 
+2023-09-07-23:26:27 INFO  Page : assaigned InputValue 
+2023-09-07-23:26:27 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:26:27 INFO  Page : assaigned InputValue 
+2023-09-07-23:26:48 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:28:01 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:28:01 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:28:02 INFO  LoginPage : loginToApp : started
+2023-09-07-23:28:03 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:28:03 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:28:13 INFO  Page : assaigned InputValue 
+2023-09-07-23:28:14 INFO  Page : assaigned InputValue 
+2023-09-07-23:28:14 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:28:14 INFO  Page : assaigned InputValue 
+2023-09-07-23:28:14 INFO  Page : assaigned InputValue 
+2023-09-07-23:28:15 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:29:55 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:29:55 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:29:57 INFO  LoginPage : loginToApp : started
+2023-09-07-23:29:57 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:29:57 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:30:10 INFO  Page : assaigned InputValue 
+2023-09-07-23:30:11 INFO  Page : assaigned InputValue 
+2023-09-07-23:30:11 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:30:11 INFO  Page : assaigned InputValue 
+2023-09-07-23:30:12 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:33:29 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:33:29 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:33:30 INFO  LoginPage : loginToApp : started
+2023-09-07-23:33:37 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:33:37 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:33:44 INFO  Page : assaigned InputValue 
+2023-09-07-23:33:44 INFO  Page : assaigned InputValue 
+2023-09-07-23:33:44 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:33:45 INFO  Page : assaigned InputValue 
+2023-09-07-23:33:45 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:36:11 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:36:11 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:36:13 INFO  LoginPage : loginToApp : started
+2023-09-07-23:36:24 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:36:24 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:36:30 INFO  Page : assaigned InputValue 
+2023-09-07-23:36:30 INFO  Page : assaigned InputValue 
+2023-09-07-23:36:30 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:36:31 INFO  Page : assaigned InputValue 
+2023-09-07-23:36:31 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:38:09 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:38:09 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:38:10 INFO  LoginPage : loginToApp : started
+2023-09-07-23:38:19 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:38:19 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:38:25 INFO  Page : assaigned InputValue 
+2023-09-07-23:38:25 INFO  Page : assaigned InputValue 
+2023-09-07-23:38:25 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:38:26 INFO  Page : assaigned InputValue 
+2023-09-07-23:38:26 INFO  Page : assaigned InputValue 
+2023-09-07-23:38:26 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:40:25 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:40:25 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:40:28 INFO  LoginPage : loginToApp : started
+2023-09-07-23:40:29 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:40:29 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:40:38 INFO  Page : assaigned InputValue 
+2023-09-07-23:40:39 INFO  Page : assaigned InputValue 
+2023-09-07-23:40:39 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:40:39 INFO  Page : assaigned InputValue 
+2023-09-07-23:40:40 INFO  Page : assaigned InputValue 
+2023-09-07-23:40:40 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:44:46 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:44:46 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:44:48 INFO  LoginPage : loginToApp : started
+2023-09-07-23:44:49 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:44:49 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:45:00 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:45:37 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:45:37 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:45:39 INFO  LoginPage : loginToApp : started
+2023-09-07-23:45:45 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:45:45 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:45:50 INFO  Page : assaigned InputValue 
+2023-09-07-23:45:50 INFO  Page : assaigned InputValue 
+2023-09-07-23:45:51 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:45:51 INFO  Page : assaigned InputValue 
+2023-09-07-23:45:51 INFO  Page : assaigned InputValue 
+2023-09-07-23:45:51 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:46:13 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:46:13 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:46:15 INFO  LoginPage : loginToApp : started
+2023-09-07-23:46:16 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:46:16 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:46:27 INFO  Page : assaigned InputValue 
+2023-09-07-23:46:27 INFO  Page : assaigned InputValue 
+2023-09-07-23:46:27 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:46:27 INFO  Page : assaigned InputValue 
+2023-09-07-23:46:27 INFO  Page : assaigned InputValue 
+2023-09-07-23:46:28 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:47:40 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:47:40 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:47:42 INFO  LoginPage : loginToApp : started
+2023-09-07-23:47:42 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:47:42 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:47:52 INFO  Page : assaigned InputValue 
+2023-09-07-23:47:53 INFO  Page : assaigned InputValue 
+2023-09-07-23:47:53 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:47:53 INFO  Page : assaigned InputValue 
+2023-09-07-23:47:53 INFO  Page : assaigned InputValue 
+2023-09-07-23:47:54 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:50:18 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:50:18 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:50:20 INFO  LoginPage : loginToApp : started
+2023-09-07-23:50:21 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:50:21 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:50:30 INFO  Page : assaigned InputValue 
+2023-09-07-23:50:31 INFO  Page : assaigned InputValue 
+2023-09-07-23:50:31 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:50:31 INFO  Page : assaigned InputValue 
+2023-09-07-23:50:31 INFO  Page : assaigned InputValue 
+2023-09-07-23:50:31 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:52:36 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:52:36 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:52:38 INFO  LoginPage : loginToApp : started
+2023-09-07-23:52:38 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:52:39 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:52:52 INFO  Page : assaigned InputValue 
+2023-09-07-23:52:52 INFO  Page : assaigned InputValue 
+2023-09-07-23:52:52 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:52:53 INFO  Page : assaigned InputValue 
+2023-09-07-23:52:53 INFO  Page : assaigned InputValue 
+2023-09-07-23:53:08 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:55:07 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:55:07 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:55:09 INFO  LoginPage : loginToApp : started
+2023-09-07-23:55:09 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:55:10 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:55:19 INFO  Page : assaigned InputValue 
+2023-09-07-23:55:19 INFO  Page : assaigned InputValue 
+2023-09-07-23:55:20 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:55:20 INFO  Page : assaigned InputValue 
+2023-09-07-23:55:20 INFO  Page : assaigned InputValue 
+2023-09-07-23:55:20 INFO  Page : assaigned InputValue 
+2023-09-07-23:55:36 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:55:50 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:55:50 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:55:52 INFO  LoginPage : loginToApp : started
+2023-09-07-23:55:52 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:55:52 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:56:03 INFO  Page : assaigned InputValue 
+2023-09-07-23:56:04 INFO  Page : assaigned InputValue 
+2023-09-07-23:56:04 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:56:04 INFO  Page : assaigned InputValue 
+2023-09-07-23:56:04 INFO  Page : assaigned InputValue 
+2023-09-07-23:56:04 INFO  Page : assaigned InputValue 
+2023-09-07-23:56:20 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:56:52 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:56:52 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:56:53 INFO  LoginPage : loginToApp : started
+2023-09-07-23:56:54 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:56:54 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:57:05 INFO  Page : assaigned InputValue 
+2023-09-07-23:57:05 INFO  Page : assaigned InputValue 
+2023-09-07-23:57:05 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:57:05 INFO  Page : assaigned InputValue 
+2023-09-07-23:57:06 INFO  Page : assaigned InputValue 
+2023-09-07-23:57:06 INFO  Page : assaigned InputValue 
+2023-09-07-23:57:26 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:57:55 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:57:55 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:57:57 INFO  LoginPage : loginToApp : started
+2023-09-07-23:57:58 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:57:58 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:58:08 INFO  Page : assaigned InputValue 
+2023-09-07-23:58:08 INFO  Page : assaigned InputValue 
+2023-09-07-23:58:09 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:58:09 INFO  Page : assaigned InputValue 
+2023-09-07-23:58:09 INFO  Page : assaigned InputValue 
+2023-09-07-23:58:09 INFO  Page : assaigned InputValue 
+2023-09-07-23:58:30 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:59:04 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:59:04 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:59:05 INFO  LoginPage : loginToApp : started
+2023-09-07-23:59:06 INFO  LoginPage : LoginToApp : Closed 
+2023-09-07-23:59:06 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-07-23:59:19 INFO  Page : assaigned InputValue 
+2023-09-07-23:59:19 INFO  Page : assaigned InputValue 
+2023-09-07-23:59:20 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-07-23:59:20 INFO  Page : assaigned InputValue 
+2023-09-07-23:59:20 INFO  Page : assaigned InputValue 
+2023-09-07-23:59:21 INFO  Page : assaigned InputValue 
+2023-09-07-23:59:36 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-07-23:59:57 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-07-23:59:57 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-07-23:59:59 INFO  LoginPage : loginToApp : started
+2023-09-08-00:00:06 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-00:00:06 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-08-00:00:15 INFO  Page : assaigned InputValue 
+2023-09-08-00:00:16 INFO  Page : assaigned InputValue 
+2023-09-08-00:00:16 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-08-00:00:16 INFO  Page : assaigned InputValue 
+2023-09-08-00:00:17 INFO  Page : assaigned InputValue 
+2023-09-08-00:00:32 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-08-00:01:31 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-00:01:31 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-00:01:32 INFO  LoginPage : loginToApp : started
+2023-09-08-00:01:33 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-00:01:33 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-08-00:01:45 INFO  Page : assaigned InputValue 
+2023-09-08-00:01:45 INFO  Page : assaigned InputValue 
+2023-09-08-00:01:45 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-08-00:01:46 INFO  Page : assaigned InputValue 
+2023-09-08-00:01:46 INFO  Page : assaigned InputValue 
+2023-09-08-00:01:59 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-08-00:02:42 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-00:02:42 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-00:02:44 INFO  LoginPage : loginToApp : started
+2023-09-08-00:02:44 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-00:02:45 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-08-00:02:55 INFO  Page : assaigned InputValue 
+2023-09-08-00:02:55 INFO  Page : assaigned InputValue 
+2023-09-08-00:02:55 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-08-00:02:56 INFO  Page : assaigned InputValue 
+2023-09-08-00:02:56 INFO  Page : assaigned InputValue 
+2023-09-08-00:02:59 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-08-00:04:04 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-00:04:04 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-00:04:05 INFO  LoginPage : loginToApp : started
+2023-09-08-00:04:06 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-00:04:06 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-08-00:04:15 INFO  Page : assaigned InputValue 
+2023-09-08-00:04:15 INFO  Page : assaigned InputValue 
+2023-09-08-00:04:16 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-08-00:04:16 INFO  Page : assaigned InputValue 
+2023-09-08-00:04:16 INFO  Page : assaigned InputValue 
+2023-09-08-00:04:19 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-08-00:04:59 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-00:04:59 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-00:05:01 INFO  LoginPage : loginToApp : started
+2023-09-08-00:05:01 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-00:05:01 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-08-00:05:13 INFO  Page : assaigned InputValue 
+2023-09-08-00:05:13 INFO  Page : assaigned InputValue 
+2023-09-08-00:05:13 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-08-00:05:13 INFO  Page : assaigned InputValue 
+2023-09-08-00:05:14 INFO  Page : assaigned InputValue 
+2023-09-08-00:05:17 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-08-00:06:32 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-00:06:32 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-00:06:37 INFO  LoginPage : loginToApp : started
+2023-09-08-00:06:38 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-00:06:38 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-08-00:06:50 INFO  Page : assaigned InputValue 
+2023-09-08-00:06:50 INFO  Page : assaigned InputValue 
+2023-09-08-00:06:51 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-08-00:06:51 INFO  Page : assaigned InputValue 
+2023-09-08-00:06:51 INFO  Page : assaigned InputValue 
+2023-09-08-00:06:51 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-08-00:07:31 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-00:07:31 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-00:07:33 INFO  LoginPage : loginToApp : started
+2023-09-08-00:07:34 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-00:07:34 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-08-00:07:47 INFO  Page : assaigned InputValue 
+2023-09-08-00:07:47 INFO  Page : assaigned InputValue 
+2023-09-08-00:07:47 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-08-00:07:48 INFO  Page : assaigned InputValue 
+2023-09-08-00:07:48 INFO  Page : assaigned InputValue 
+2023-09-08-00:07:49 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-08-00:10:20 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-00:10:20 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-00:10:21 INFO  LoginPage : loginToApp : started
+2023-09-08-00:10:28 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-00:10:28 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-08-00:10:32 INFO  Page : assaigned InputValue 
+2023-09-08-00:10:32 INFO  Page : assaigned InputValue 
+2023-09-08-00:10:32 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-08-00:10:33 INFO  Page : assaigned InputValue 
+2023-09-08-00:10:33 INFO  Page : assaigned InputValue 
+2023-09-08-00:10:33 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-08-00:11:09 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-00:11:09 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-00:11:11 INFO  LoginPage : loginToApp : started
+2023-09-08-00:11:12 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-00:11:12 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-08-00:11:22 INFO  Page : assaigned InputValue 
+2023-09-08-00:11:22 INFO  Page : assaigned InputValue 
+2023-09-08-00:11:23 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-08-00:11:23 INFO  Page : assaigned InputValue 
+2023-09-08-00:11:23 INFO  Page : assaigned InputValue 
+2023-09-08-00:11:23 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-08-00:13:50 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-00:13:50 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-00:13:51 INFO  LoginPage : loginToApp : started
+2023-09-08-00:13:58 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-00:13:58 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-08-00:14:02 INFO  Page : assaigned InputValue 
+2023-09-08-00:14:02 INFO  Page : assaigned InputValue 
+2023-09-08-00:14:02 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-08-00:14:02 INFO  Page : assaigned InputValue 
+2023-09-08-00:14:03 INFO  Page : assaigned InputValue 
+2023-09-08-00:14:03 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-08-00:17:20 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-00:17:20 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-00:17:22 INFO  LoginPage : loginToApp : started
+2023-09-08-00:17:22 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-00:17:22 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-08-00:17:32 INFO  Page : assaigned InputValue 
+2023-09-08-00:17:33 INFO  Page : assaigned InputValue 
+2023-09-08-00:17:33 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-08-00:17:33 INFO  Page : assaigned InputValue 
+2023-09-08-00:17:34 INFO  Page : assaigned InputValue 
+2023-09-08-00:17:34 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-08-00:18:13 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-00:18:13 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-00:18:16 INFO  LoginPage : loginToApp : started
+2023-09-08-00:18:22 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-00:18:22 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-08-00:18:31 INFO  Page : assaigned InputValue 
+2023-09-08-00:18:31 INFO  Page : assaigned InputValue 
+2023-09-08-00:18:31 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-08-00:18:31 INFO  Page : assaigned InputValue 
+2023-09-08-00:18:32 INFO  Page : assaigned InputValue 
+2023-09-08-00:18:32 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-08-00:19:20 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-00:19:20 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-00:19:21 INFO  LoginPage : loginToApp : started
+2023-09-08-00:19:22 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-00:19:22 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-08-00:19:33 INFO  Page : assaigned InputValue 
+2023-09-08-00:19:33 INFO  Page : assaigned InputValue 
+2023-09-08-00:19:34 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-08-00:19:34 INFO  Page : assaigned InputValue 
+2023-09-08-00:19:34 INFO  Page : assaigned InputValue 
+2023-09-08-00:19:35 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-08-00:24:58 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-00:24:58 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-00:25:00 INFO  LoginPage : loginToApp : started
+2023-09-08-00:25:01 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-00:25:01 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-08-00:25:12 INFO  Page : assaigned InputValue 
+2023-09-08-00:25:12 INFO  Page : assaigned InputValue 
+2023-09-08-00:25:13 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-08-00:25:13 INFO  Page : assaigned InputValue 
+2023-09-08-00:25:13 INFO  Page : assaigned InputValue 
+2023-09-08-00:25:14 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-08-00:26:48 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-00:26:48 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-00:26:49 INFO  LoginPage : loginToApp : started
+2023-09-08-00:26:57 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-00:26:57 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-08-00:27:01 INFO  Page : assaigned InputValue 
+2023-09-08-00:27:01 INFO  Page : assaigned InputValue 
+2023-09-08-00:27:01 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-08-00:27:02 INFO  Page : assaigned InputValue 
+2023-09-08-00:27:02 INFO  Page : assaigned InputValue 
+2023-09-08-00:27:02 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-08-00:27:44 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-00:27:44 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-00:27:45 INFO  LoginPage : loginToApp : started
+2023-09-08-00:27:52 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-00:27:52 INFO  BaseTest:setup: TestCase14 Test object for reporting is Created
+2023-09-08-00:27:57 INFO  Page : assaigned InputValue 
+2023-09-08-00:27:57 INFO  Page : assaigned InputValue 
+2023-09-08-00:27:57 INFO  AccountPage :SetReportFilter : New Report created 
+2023-09-08-00:27:58 INFO  Page : assaigned InputValue 
+2023-09-08-00:27:58 INFO  Page : assaigned InputValue 
+2023-09-08-00:27:59 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase14() throws java.io.IOException,java.lang.InterruptedExceptionTear down called
+2023-09-08-12:33:41 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-12:33:41 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-12:33:42 INFO  LoginPage : loginToApp : started
+2023-09-08-12:33:42 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-12:33:42 INFO  BaseTest:setup: TestCase28 Test object for reporting is Created
+2023-09-08-12:33:53 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase28()Tear down called
+2023-09-08-12:39:17 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-12:39:17 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-12:39:19 INFO  LoginPage : loginToApp : started
+2023-09-08-12:39:19 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-12:39:19 INFO  BaseTest:setup: TestCase28 Test object for reporting is Created
+2023-09-08-12:39:28 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase28()Tear down called
+2023-09-08-12:42:32 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-12:42:32 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-12:42:34 INFO  LoginPage : loginToApp : started
+2023-09-08-12:42:40 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-12:42:40 INFO  BaseTest:setup: TestCase28 Test object for reporting is Created
+2023-09-08-12:42:42 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase28()Tear down called
+2023-09-08-12:52:51 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-12:52:51 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-12:52:52 INFO  LoginPage : loginToApp : started
+2023-09-08-12:52:53 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-12:52:53 INFO  BaseTest:setup: TestCase28 Test object for reporting is Created
+2023-09-08-12:53:01 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase28()Tear down called
+2023-09-08-12:53:31 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-12:53:31 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-12:53:32 INFO  LoginPage : loginToApp : started
+2023-09-08-12:53:40 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-12:53:40 INFO  BaseTest:setup: TestCase27 Test object for reporting is Created
+2023-09-08-12:53:42 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase27()Tear down called
+2023-09-08-12:55:13 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-12:55:13 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-12:55:14 INFO  LoginPage : loginToApp : started
+2023-09-08-12:55:15 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-12:55:15 INFO  BaseTest:setup: TestCase26 Test object for reporting is Created
+2023-09-08-12:55:24 INFO  Page : assaigned InputValue 
+2023-09-08-12:55:24 INFO  Page : assaigned InputValue 
+2023-09-08-12:55:24 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase26() throws java.io.IOExceptionTear down called
+2023-09-08-13:03:55 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-13:03:55 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-13:03:57 INFO  LoginPage : loginToApp : started
+2023-09-08-13:03:58 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-13:03:58 INFO  BaseTest:setup: TestCase28 Test object for reporting is Created
+2023-09-08-13:04:08 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase28()Tear down called
+2023-09-08-13:06:15 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-13:06:15 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-13:06:17 INFO  LoginPage : loginToApp : started
+2023-09-08-13:06:24 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-13:06:24 INFO  BaseTest:setup: TestCase28 Test object for reporting is Created
+2023-09-08-13:06:26 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase28()Tear down called
+2023-09-08-13:08:44 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-13:08:44 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-13:08:45 INFO  LoginPage : loginToApp : started
+2023-09-08-13:08:52 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-13:08:52 INFO  BaseTest:setup: TastCase25 Test object for reporting is Created
+2023-09-08-13:08:55 INFO  Page : assaigned InputValue 
+2023-09-08-13:08:55 INFO  Page : assaigned InputValue 
+2023-09-08-13:08:58 INFO  BaseTest:tearDown: public void test.ContactsTest.TastCase25()Tear down called
+2023-09-08-13:10:19 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-13:10:19 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-13:10:20 INFO  LoginPage : loginToApp : started
+2023-09-08-13:10:21 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-13:10:21 INFO  BaseTest:setup: TestCase27 Test object for reporting is Created
+2023-09-08-13:10:31 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase27()Tear down called
+2023-09-08-13:28:43 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-13:28:43 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-13:28:45 INFO  LoginPage : loginToApp : started
+2023-09-08-13:28:54 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-13:28:54 INFO  BaseTest:setup: TestCase27 Test object for reporting is Created
+2023-09-08-13:28:56 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase27() throws java.io.IOExceptionTear down called
+2023-09-08-13:32:35 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-13:32:35 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-13:32:37 INFO  LoginPage : loginToApp : started
+2023-09-08-13:32:38 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-13:32:38 INFO  BaseTest:setup: TestCase27 Test object for reporting is Created
+2023-09-08-13:32:46 INFO  Page : verifyElementDisplayed 
+2023-09-08-13:32:46 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase27() throws java.io.IOExceptionTear down called
+2023-09-08-14:06:23 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-14:06:23 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-14:06:25 INFO  LoginPage : loginToApp : started
+2023-09-08-14:06:31 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-14:06:31 INFO  BaseTest:setup: TestCase29 Test object for reporting is Created
+2023-09-08-14:06:32 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase29()Tear down called
+2023-09-08-16:29:18 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-16:29:18 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-16:29:20 INFO  LoginPage : loginToApp : started
+2023-09-08-16:29:20 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-16:29:20 INFO  BaseTest:setup: TestCase29 Test object for reporting is Created
+2023-09-08-16:29:26 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase29()Tear down called
+2023-09-08-16:51:12 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-16:51:12 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-16:51:13 INFO  LoginPage : loginToApp : started
+2023-09-08-16:51:14 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-16:51:14 INFO  BaseTest:setup: TestCase29 Test object for reporting is Created
+2023-09-08-16:51:22 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase29()Tear down called
+2023-09-08-16:56:53 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-16:56:53 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-16:56:55 INFO  LoginPage : loginToApp : started
+2023-09-08-16:57:04 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-16:57:04 INFO  BaseTest:setup: TestCase29 Test object for reporting is Created
+2023-09-08-16:57:06 INFO  Page : verifyElementDisplayed 
+2023-09-08-16:57:06 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase29()Tear down called
+2023-09-08-17:11:17 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-17:11:17 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-17:11:19 INFO  LoginPage : loginToApp : started
+2023-09-08-17:11:25 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-17:11:25 INFO  BaseTest:setup: TestCase29 Test object for reporting is Created
+2023-09-08-17:11:27 INFO  Page : verifyElementDisplayed 
+2023-09-08-17:11:28 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase29()Tear down called
+2023-09-08-17:12:47 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-17:12:47 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-17:12:48 INFO  LoginPage : loginToApp : started
+2023-09-08-17:12:54 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-17:12:54 INFO  BaseTest:setup: TestCase29 Test object for reporting is Created
+2023-09-08-17:12:56 INFO  Page : verifyElementDisplayed 
+2023-09-08-17:12:58 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase29()Tear down called
+2023-09-08-17:14:54 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-17:14:54 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-17:14:56 INFO  LoginPage : loginToApp : started
+2023-09-08-17:15:02 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-17:15:02 INFO  BaseTest:setup: TestCase28 Test object for reporting is Created
+2023-09-08-17:15:02 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase28()Tear down called
+2023-09-08-17:27:53 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-17:27:53 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-17:27:54 INFO  LoginPage : loginToApp : started
+2023-09-08-17:28:00 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-17:28:00 INFO  BaseTest:setup: TestCase28 Test object for reporting is Created
+2023-09-08-17:28:02 INFO  Page : verifyElementDisplayed 
+2023-09-08-17:28:22 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase28()Tear down called
+2023-09-08-17:30:16 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-17:30:16 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-17:30:18 INFO  LoginPage : loginToApp : started
+2023-09-08-17:30:18 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-17:30:18 INFO  BaseTest:setup: TestCase28 Test object for reporting is Created
+2023-09-08-17:30:25 INFO  Page : verifyElementDisplayed 
+2023-09-08-17:30:25 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase28()Tear down called
+2023-09-08-17:31:52 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-17:31:52 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-17:31:54 INFO  LoginPage : loginToApp : started
+2023-09-08-17:31:54 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-17:31:54 INFO  BaseTest:setup: TestCase28 Test object for reporting is Created
+2023-09-08-17:32:01 INFO  Page : verifyElementDisplayed 
+2023-09-08-17:32:01 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase28()Tear down called
+2023-09-08-17:40:37 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-17:40:37 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-17:40:38 INFO  LoginPage : loginToApp : started
+2023-09-08-17:40:46 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-17:40:46 INFO  BaseTest:setup: TestCase30 Test object for reporting is Created
+2023-09-08-17:40:46 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase30()Tear down called
+2023-09-08-17:46:26 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-17:46:26 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-17:46:27 INFO  LoginPage : loginToApp : started
+2023-09-08-17:46:34 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-17:46:34 INFO  BaseTest:setup: TestCase30 Test object for reporting is Created
+2023-09-08-17:46:36 INFO  Page : assaigned InputValue 
+2023-09-08-17:46:36 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase30()Tear down called
+2023-09-08-17:54:27 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-17:54:27 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-17:54:30 INFO  LoginPage : loginToApp : started
+2023-09-08-17:54:36 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-17:54:36 INFO  BaseTest:setup: TestCase30 Test object for reporting is Created
+2023-09-08-17:54:38 INFO  Page : assaigned InputValue 
+2023-09-08-17:54:38 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase30()Tear down called
+2023-09-08-17:55:38 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-17:55:38 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-17:55:40 INFO  LoginPage : loginToApp : started
+2023-09-08-17:55:46 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-17:55:46 INFO  BaseTest:setup: TestCase30 Test object for reporting is Created
+2023-09-08-17:55:48 INFO  Page : assaigned InputValue 
+2023-09-08-17:55:49 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase30()Tear down called
+2023-09-08-17:57:24 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-17:57:24 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-17:57:26 INFO  LoginPage : loginToApp : started
+2023-09-08-17:57:32 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-17:57:32 INFO  BaseTest:setup: TestCase30 Test object for reporting is Created
+2023-09-08-17:57:35 INFO  Page : assaigned InputValue 
+2023-09-08-17:57:35 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase30()Tear down called
+2023-09-08-17:59:20 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-17:59:20 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-17:59:22 INFO  LoginPage : loginToApp : started
+2023-09-08-17:59:27 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-17:59:27 INFO  BaseTest:setup: TestCase31 Test object for reporting is Created
+2023-09-08-17:59:30 INFO  Page : assaigned InputValue 
+2023-09-08-17:59:30 INFO  Page : assaigned InputValue 
+2023-09-08-17:59:30 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase31() throws java.io.IOExceptionTear down called
+2023-09-08-18:05:28 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-18:05:28 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-18:05:30 INFO  LoginPage : loginToApp : started
+2023-09-08-18:05:30 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-18:05:30 INFO  BaseTest:setup: TestCase32 Test object for reporting is Created
+2023-09-08-18:05:40 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase32()Tear down called
+2023-09-08-18:19:53 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-18:19:53 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-18:19:57 INFO  LoginPage : loginToApp : started
+2023-09-08-18:20:03 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-18:20:03 INFO  BaseTest:setup: TestCase32 Test object for reporting is Created
+2023-09-08-18:20:05 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase32()Tear down called
+2023-09-08-18:27:51 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-18:27:51 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-18:27:52 INFO  LoginPage : loginToApp : started
+2023-09-08-18:27:58 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-18:27:58 INFO  BaseTest:setup: TestCase32 Test object for reporting is Created
+2023-09-08-18:27:59 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase32()Tear down called
+2023-09-08-18:40:13 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-18:40:13 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-18:40:14 INFO  LoginPage : loginToApp : started
+2023-09-08-18:40:21 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-18:40:21 INFO  BaseTest:setup: TestCase32 Test object for reporting is Created
+2023-09-08-18:40:24 INFO  Page : verifyElementDisplayed 
+2023-09-08-18:40:24 INFO  Page : assaigned InputValue 
+2023-09-08-18:40:24 INFO  Page : assaigned InputValue 
+2023-09-08-18:40:24 INFO  BaseTest:tearDown: public void test.ContactsTest.TestCase32()Tear down called
+2023-09-08-19:07:28 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-19:07:28 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-19:07:30 INFO  LoginPage : loginToApp : started
+2023-09-08-19:07:37 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-19:07:37 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-08-19:07:37 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34()Tear down called
+2023-09-08-19:24:44 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-19:24:44 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-19:24:46 INFO  LoginPage : loginToApp : started
+2023-09-08-19:24:51 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-19:24:51 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-08-19:24:54 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34()Tear down called
+2023-09-08-19:38:37 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-19:38:37 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-19:38:38 INFO  LoginPage : loginToApp : started
+2023-09-08-19:38:45 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-19:38:45 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-08-19:38:49 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34()Tear down called
+2023-09-08-19:44:00 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-19:44:00 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-19:44:01 INFO  LoginPage : loginToApp : started
+2023-09-08-19:44:09 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-19:44:09 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-08-19:44:12 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34()Tear down called
+2023-09-08-19:51:54 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-19:51:54 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-19:51:56 INFO  LoginPage : loginToApp : started
+2023-09-08-19:52:01 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-19:52:01 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-08-19:52:04 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34()Tear down called
+2023-09-08-19:55:20 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-19:55:20 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-19:55:22 INFO  LoginPage : loginToApp : started
+2023-09-08-19:55:27 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-19:55:27 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-08-19:55:30 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34()Tear down called
+2023-09-08-20:02:40 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-20:02:40 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-20:02:42 INFO  LoginPage : loginToApp : started
+2023-09-08-20:02:48 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-20:02:48 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-08-20:03:49 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-20:03:49 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-20:03:50 INFO  LoginPage : loginToApp : started
+2023-09-08-20:03:56 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-20:03:56 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-08-20:03:59 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-08-20:04:17 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-20:04:17 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-20:04:18 INFO  LoginPage : loginToApp : started
+2023-09-08-20:04:19 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-20:04:19 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-08-20:04:47 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-08-20:07:57 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-20:07:57 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-20:07:59 INFO  LoginPage : loginToApp : started
+2023-09-08-20:07:59 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-20:07:59 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-08-20:08:28 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-08-20:09:03 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-20:09:03 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-20:09:04 INFO  LoginPage : loginToApp : started
+2023-09-08-20:09:11 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-20:09:11 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-08-20:09:14 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-08-20:09:39 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-20:09:39 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-20:09:40 INFO  LoginPage : loginToApp : started
+2023-09-08-20:09:45 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-20:09:45 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-08-20:52:34 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-20:52:34 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-20:52:35 INFO  LoginPage : loginToApp : started
+2023-09-08-20:52:41 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-20:52:41 INFO  BaseTest:setup: TestCase35 Test object for reporting is Created
+2023-09-08-20:52:41 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase35()Tear down called
+2023-09-08-21:07:49 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-21:07:49 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-21:07:51 INFO  LoginPage : loginToApp : started
+2023-09-08-21:07:57 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-21:07:57 INFO  BaseTest:setup: TestCase35 Test object for reporting is Created
+2023-09-08-21:07:58 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase35()Tear down called
+2023-09-08-21:20:04 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-08-21:20:04 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-08-21:20:06 INFO  LoginPage : loginToApp : started
+2023-09-08-21:20:12 INFO  LoginPage : LoginToApp : Closed 
+2023-09-08-21:20:12 INFO  BaseTest:setup: TestCase35 Test object for reporting is Created
+2023-09-08-21:20:14 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase35()Tear down called
+2023-09-09-09:57:06 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-09:57:06 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-09:57:08 INFO  LoginPage : loginToApp : started
+2023-09-09-09:57:14 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-09:57:14 INFO  BaseTest:setup: TestCase35 Test object for reporting is Created
+2023-09-09-09:57:18 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase35() throws java.io.IOExceptionTear down called
+2023-09-09-10:36:55 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-10:36:55 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-10:36:57 INFO  LoginPage : loginToApp : started
+2023-09-09-10:36:57 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-10:36:57 INFO  BaseTest:setup: TestCase35 Test object for reporting is Created
+2023-09-09-10:37:08 INFO  LoginPage : loginToApp : started
+2023-09-09-10:37:08 INFO  Page : verifyElementDisplayed 
+2023-09-09-10:37:08 INFO  LoginPage : loginToApp : started
+2023-09-09-10:37:08 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-10:37:10 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase35() throws java.io.IOExceptionTear down called
+2023-09-09-10:55:56 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-10:55:56 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-10:55:58 INFO  LoginPage : loginToApp : started
+2023-09-09-10:55:58 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-10:55:58 INFO  BaseTest:setup: TestCase36 Test object for reporting is Created
+2023-09-09-10:55:58 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase36()Tear down called
+2023-09-09-10:58:29 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-10:58:29 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-10:58:31 INFO  LoginPage : loginToApp : started
+2023-09-09-10:58:31 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-10:58:31 INFO  BaseTest:setup: TestCase36 Test object for reporting is Created
+2023-09-09-10:58:37 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase36()Tear down called
+2023-09-09-11:22:09 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-11:22:09 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-11:22:10 INFO  LoginPage : loginToApp : started
+2023-09-09-11:22:11 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-11:22:11 INFO  BaseTest:setup: TestCase36 Test object for reporting is Created
+2023-09-09-11:22:18 INFO  Page : verifyElementDisplayed 
+2023-09-09-11:22:18 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase36()Tear down called
+2023-09-09-11:23:25 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-11:23:25 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-11:23:27 INFO  LoginPage : loginToApp : started
+2023-09-09-11:23:33 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-11:23:33 INFO  BaseTest:setup: TestCase36 Test object for reporting is Created
+2023-09-09-11:23:34 INFO  Page : verifyElementDisplayed 
+2023-09-09-11:23:35 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase36()Tear down called
+2023-09-09-11:35:31 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-11:35:31 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-11:35:33 INFO  LoginPage : loginToApp : started
+2023-09-09-11:35:33 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-11:35:33 INFO  BaseTest:setup: TestCase36 Test object for reporting is Created
+2023-09-09-11:35:40 INFO  Page : verifyElementDisplayed 
+2023-09-09-11:35:42 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase36()Tear down called
+2023-09-09-12:08:13 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-12:08:13 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-12:08:17 INFO  LoginPage : loginToApp : started
+2023-09-09-12:08:17 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-12:08:17 INFO  BaseTest:setup: TestCase36 Test object for reporting is Created
+2023-09-09-12:08:24 INFO  Page : verifyElementDisplayed 
+2023-09-09-12:08:25 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase36()Tear down called
+2023-09-09-12:13:48 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-12:13:48 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-12:13:49 INFO  LoginPage : loginToApp : started
+2023-09-09-12:13:50 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-12:13:50 INFO  BaseTest:setup: TestCase36 Test object for reporting is Created
+2023-09-09-12:13:56 INFO  Page : verifyElementDisplayed 
+2023-09-09-12:13:58 INFO  Page : verifyElementDisplayed 
+2023-09-09-12:13:58 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase36()Tear down called
+2023-09-09-12:17:03 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-12:17:03 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-12:17:04 INFO  LoginPage : loginToApp : started
+2023-09-09-12:17:05 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-12:17:05 INFO  BaseTest:setup: TestCase36 Test object for reporting is Created
+2023-09-09-12:17:11 INFO  Page : verifyElementDisplayed 
+2023-09-09-12:17:14 INFO  Page : verifyElementDisplayed 
+2023-09-09-12:17:14 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase36()Tear down called
+2023-09-09-13:12:40 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-13:12:40 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-13:12:42 INFO  LoginPage : loginToApp : started
+2023-09-09-13:12:48 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-13:12:48 INFO  BaseTest:setup: TestCase36 Test object for reporting is Created
+2023-09-09-13:12:50 INFO  Page : verifyElementDisplayed 
+2023-09-09-13:12:52 INFO  Page : verifyElementDisplayed 
+2023-09-09-13:12:53 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase36()Tear down called
+2023-09-09-13:14:55 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-13:14:55 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-13:14:55 INFO  BaseTest:setup: loginTest03 Test object for reporting is Created
+2023-09-09-13:14:56 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-09-13:14:56 INFO  LoginPage : selectRememberMeCheckBox : Ended 
+2023-09-09-13:14:56 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest03() throws org.apache.poi.openxml4j.exceptions.InvalidFormatException,java.io.IOExceptionTear down called
+2023-09-09-14:28:41 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-14:28:41 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-14:28:42 INFO  LoginPage : loginToApp : started
+2023-09-09-14:28:43 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-14:28:43 INFO  BaseTest:setup: TastCase25 Test object for reporting is Created
+2023-09-09-14:28:50 INFO  Page : assaigned InputValue 
+2023-09-09-14:28:50 INFO  Page : assaigned InputValue 
+2023-09-09-14:28:53 INFO  BaseTest:tearDown: public void test.ContactsTest.TastCase25()Tear down called
+2023-09-09-14:32:04 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-14:32:04 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-14:32:05 INFO  LoginPage : loginToApp : started
+2023-09-09-14:32:11 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-14:32:11 INFO  BaseTest:setup: TestCase36 Test object for reporting is Created
+2023-09-09-14:32:13 INFO  Page : verifyElementDisplayed 
+2023-09-09-14:32:15 INFO  Page : verifyElementDisplayed 
+2023-09-09-14:32:15 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase36()Tear down called
+2023-09-09-14:40:38 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-14:40:38 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-14:40:39 INFO  LoginPage : loginToApp : started
+2023-09-09-14:40:40 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-14:40:40 INFO  BaseTest:setup: TestCase36 Test object for reporting is Created
+2023-09-09-14:40:46 INFO  Page : verifyElementDisplayed 
+2023-09-09-14:40:48 INFO  Page : verifyElementDisplayed 
+2023-09-09-14:40:48 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase36()Tear down called
+2023-09-09-17:16:41 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-17:16:41 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-17:16:44 INFO  LoginPage : loginToApp : started
+2023-09-09-17:16:54 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-17:16:54 INFO  BaseTest:setup: TestCase36 Test object for reporting is Created
+2023-09-09-17:16:56 INFO  Page : verifyElementDisplayed 
+2023-09-09-17:16:58 INFO  Page : verifyElementDisplayed 
+2023-09-09-17:16:59 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase36()Tear down called
+2023-09-09-20:10:38 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-20:10:38 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-20:10:40 INFO  LoginPage : loginToApp : started
+2023-09-09-20:10:40 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-20:10:41 INFO  BaseTest:setup: TestCase36 Test object for reporting is Created
+2023-09-09-20:10:47 INFO  Page : verifyElementDisplayed 
+2023-09-09-20:10:50 INFO  Page : verifyElementDisplayed 
+2023-09-09-20:10:50 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase36()Tear down called
+2023-09-09-20:22:11 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-09-20:22:11 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-09-20:22:12 INFO  LoginPage : loginToApp : started
+2023-09-09-20:22:18 INFO  LoginPage : LoginToApp : Closed 
+2023-09-09-20:22:18 INFO  BaseTest:setup: TestCase36 Test object for reporting is Created
+2023-09-09-20:22:20 INFO  Page : verifyElementDisplayed 
+2023-09-09-20:22:22 INFO  Page : verifyElementDisplayed 
+2023-09-09-20:22:24 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase36()Tear down called
+2023-09-10-10:33:26 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-10-10:33:26 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-10-10:33:29 INFO  LoginPage : loginToApp : started
+2023-09-10-10:33:34 INFO  LoginPage : LoginToApp : Closed 
+2023-09-10-10:33:34 INFO  BaseTest:setup: TestCase37 Test object for reporting is Created
+2023-09-10-10:33:35 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase37()Tear down called
+2023-09-10-10:38:10 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-10-10:38:10 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-10-10:38:11 INFO  LoginPage : loginToApp : started
+2023-09-10-10:38:17 INFO  LoginPage : LoginToApp : Closed 
+2023-09-10-10:38:17 INFO  BaseTest:setup: TestCase37 Test object for reporting is Created
+2023-09-10-10:38:18 INFO  Page : verifyElementDisplayed 
+2023-09-10-10:38:19 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase37()Tear down called
+2023-09-10-10:55:05 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-10-10:55:05 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-10-10:55:07 INFO  LoginPage : loginToApp : started
+2023-09-10-10:55:07 INFO  LoginPage : LoginToApp : Closed 
+2023-09-10-10:55:07 INFO  BaseTest:setup: TestCase37 Test object for reporting is Created
+2023-09-10-10:55:14 INFO  Page : verifyElementDisplayed 
+2023-09-10-10:55:16 INFO  Page : verifyElementDisplayed 
+2023-09-10-10:55:17 INFO  Page : assaigned InputValue 
+2023-09-10-10:55:18 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase37()Tear down called
+2023-09-10-11:19:17 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-10-11:19:17 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-10-11:19:18 INFO  LoginPage : loginToApp : started
+2023-09-10-11:19:24 INFO  LoginPage : LoginToApp : Closed 
+2023-09-10-11:19:24 INFO  BaseTest:setup: TestCase37 Test object for reporting is Created
+2023-09-10-11:19:26 INFO  Page : verifyElementDisplayed 
+2023-09-10-11:19:28 INFO  Page : verifyElementDisplayed 
+2023-09-10-11:19:29 INFO  Page : assaigned InputValue 
+2023-09-10-11:19:30 INFO  Page : verifyElementDisplayed 
+2023-09-10-11:19:30 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase37()Tear down called
+2023-09-10-11:27:11 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-10-11:27:11 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-10-11:27:12 INFO  LoginPage : loginToApp : started
+2023-09-10-11:27:19 INFO  LoginPage : LoginToApp : Closed 
+2023-09-10-11:27:19 INFO  BaseTest:setup: TastCase25 Test object for reporting is Created
+2023-09-10-11:27:21 INFO  Page : assaigned InputValue 
+2023-09-10-11:27:21 INFO  Page : assaigned InputValue 
+2023-09-10-11:27:23 INFO  BaseTest:tearDown: public void test.ContactsTest.TastCase25()Tear down called
+2023-09-10-12:15:32 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-10-12:15:32 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-10-12:15:33 INFO  LoginPage : loginToApp : started
+2023-09-10-12:15:39 INFO  LoginPage : LoginToApp : Closed 
+2023-09-10-12:15:39 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-10-12:16:02 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-10-12:16:53 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-10-12:16:53 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-10-12:16:55 INFO  LoginPage : loginToApp : started
+2023-09-10-12:16:55 INFO  LoginPage : LoginToApp : Closed 
+2023-09-10-12:16:55 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-10-12:17:25 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-10-12:19:31 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-10-12:19:31 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-10-12:19:32 INFO  LoginPage : loginToApp : started
+2023-09-10-12:19:38 INFO  LoginPage : LoginToApp : Closed 
+2023-09-10-12:19:38 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-10-12:20:01 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-10-12:23:35 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-10-12:23:35 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-10-12:23:37 INFO  LoginPage : loginToApp : started
+2023-09-10-12:23:37 INFO  LoginPage : LoginToApp : Closed 
+2023-09-10-12:23:37 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-10-12:23:45 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-10-12:24:23 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-10-12:24:23 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-10-12:24:24 INFO  LoginPage : loginToApp : started
+2023-09-10-12:24:25 INFO  LoginPage : LoginToApp : Closed 
+2023-09-10-12:24:25 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-10-12:25:48 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-10-12:25:48 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-10-12:25:50 INFO  LoginPage : loginToApp : started
+2023-09-10-12:25:50 INFO  LoginPage : LoginToApp : Closed 
+2023-09-10-12:25:50 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-10-12:26:23 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-10-12:29:42 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-10-12:29:42 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-10-12:29:43 INFO  LoginPage : loginToApp : started
+2023-09-10-12:29:44 INFO  LoginPage : LoginToApp : Closed 
+2023-09-10-12:29:44 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-10-12:29:52 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-21:48:13 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-21:48:13 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-21:48:14 INFO  LoginPage : loginToApp : started
+2023-09-11-21:48:14 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-21:48:14 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-21:48:35 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-21:49:24 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-21:49:24 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-21:49:26 INFO  LoginPage : loginToApp : started
+2023-09-11-21:49:26 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-21:49:26 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-21:49:36 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-21:54:11 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-21:54:11 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-21:54:13 INFO  LoginPage : loginToApp : started
+2023-09-11-21:54:13 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-21:54:13 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-21:54:21 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-21:56:25 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-21:56:25 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-21:56:26 INFO  LoginPage : loginToApp : started
+2023-09-11-21:56:32 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-21:56:32 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-21:56:35 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-21:57:10 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-21:57:10 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-21:57:12 INFO  LoginPage : loginToApp : started
+2023-09-11-21:57:18 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-21:57:18 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-21:57:20 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-21:59:23 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-21:59:23 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-21:59:24 INFO  LoginPage : loginToApp : started
+2023-09-11-21:59:24 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-21:59:24 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-21:59:53 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-22:00:32 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-22:00:32 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-22:00:34 INFO  LoginPage : loginToApp : started
+2023-09-11-22:00:40 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-22:00:40 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-22:01:03 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-22:05:12 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-22:05:12 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-22:05:13 INFO  LoginPage : loginToApp : started
+2023-09-11-22:05:14 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-22:05:14 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-22:05:49 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-22:05:49 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-22:05:50 INFO  LoginPage : loginToApp : started
+2023-09-11-22:06:00 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-22:06:00 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-22:06:06 INFO  Page : verifyLastNameChangeInAboutTa 
+2023-09-11-22:06:06 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-22:16:58 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-22:16:58 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-22:17:00 INFO  LoginPage : loginToApp : started
+2023-09-11-22:17:06 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-22:17:06 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-22:17:27 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-22:18:22 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-22:18:22 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-22:18:24 INFO  LoginPage : loginToApp : started
+2023-09-11-22:18:24 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-22:18:24 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-22:18:53 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-22:21:53 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-22:21:53 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-22:21:55 INFO  LoginPage : loginToApp : started
+2023-09-11-22:22:01 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-22:22:01 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-22:24:21 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-22:24:21 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-22:24:22 INFO  LoginPage : loginToApp : started
+2023-09-11-22:24:32 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-22:24:32 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-22:24:58 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-22:25:58 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-22:25:58 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-22:26:00 INFO  LoginPage : loginToApp : started
+2023-09-11-22:26:00 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-22:26:00 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-22:26:31 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-22:28:00 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-22:28:00 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-22:28:01 INFO  LoginPage : loginToApp : started
+2023-09-11-22:28:07 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-22:28:07 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-22:28:13 INFO  Page : verifyLastNameChangeInAboutTa 
+2023-09-11-22:28:13 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-22:29:46 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-22:29:46 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-22:29:47 INFO  LoginPage : loginToApp : started
+2023-09-11-22:29:53 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-22:29:53 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-22:30:14 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-22:31:20 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-22:31:20 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-22:31:21 INFO  LoginPage : loginToApp : started
+2023-09-11-22:31:22 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-22:31:22 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-22:31:55 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-22:34:55 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-22:34:55 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-22:34:58 INFO  LoginPage : loginToApp : started
+2023-09-11-22:35:04 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-22:35:04 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-22:35:20 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-22:43:17 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-22:43:17 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-22:43:18 INFO  LoginPage : loginToApp : started
+2023-09-11-22:43:19 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-22:43:19 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-22:43:49 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-22:50:10 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-22:50:10 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-22:50:11 INFO  LoginPage : loginToApp : started
+2023-09-11-22:50:17 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-22:50:17 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-22:50:22 INFO  Page : verifyLastNameChangeInAboutTa 
+2023-09-11-22:50:23 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-22:50:56 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-22:50:56 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-22:50:58 INFO  LoginPage : loginToApp : started
+2023-09-11-22:51:03 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-22:51:03 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-22:51:09 INFO  Page : verifyLastNameChangeInAboutTa 
+2023-09-11-22:51:09 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-22:53:05 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-22:53:05 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-22:53:06 INFO  LoginPage : loginToApp : started
+2023-09-11-22:53:07 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-22:53:07 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-22:53:18 INFO  Page : verifyLastNameChangeInAboutTa 
+2023-09-11-22:53:18 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-11-22:56:46 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-11-22:56:46 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-11-22:56:48 INFO  LoginPage : loginToApp : started
+2023-09-11-22:56:49 INFO  LoginPage : LoginToApp : Closed 
+2023-09-11-22:56:49 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-11-22:57:03 INFO  Page : verifyLastNameChangeInAboutTa 
+2023-09-11-22:57:03 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-12-08:35:22 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-08:35:22 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-08:35:23 INFO  LoginPage : loginToApp : started
+2023-09-12-08:35:24 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-08:35:24 INFO  BaseTest:setup: TestCase33 Test object for reporting is Created
+2023-09-12-08:35:31 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase33()Tear down called
+2023-09-12-08:35:31 INFO  BaseTest:setup: TestCase34 Test object for reporting is Created
+2023-09-12-08:35:36 INFO  Page : verifyLastNameChangeInAboutTa 
+2023-09-12-08:35:36 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedExceptionTear down called
+2023-09-12-08:35:36 INFO  BaseTest:setup: TestCase35 Test object for reporting is Created
+2023-09-12-08:35:41 INFO  LoginPage : loginToApp : started
+2023-09-12-08:35:41 INFO  Page : verifyElementDisplayed 
+2023-09-12-08:35:41 INFO  LoginPage : loginToApp : started
+2023-09-12-08:35:42 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-08:35:44 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase35() throws java.io.IOExceptionTear down called
+2023-09-12-08:39:18 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-08:39:19 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-08:39:20 INFO  LoginPage : loginToApp : started
+2023-09-12-08:39:21 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-08:39:21 INFO  BaseTest:setup: TestCase24 Test object for reporting is Created
+2023-09-12-08:39:27 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase24(java.lang.reflect.Method)Tear down called
+2023-09-12-08:39:27 INFO  BaseTest:setup: TestCase21 Test object for reporting is Created
+2023-09-12-08:39:28 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase21() throws java.io.IOExceptionTear down called
+2023-09-12-08:39:28 INFO  BaseTest:setup: TestCase20 Test object for reporting is Created
+2023-09-12-08:39:28 INFO  BaseTest:tearDown: public void test.LeadsTest.TestCase20() throws java.io.IOExceptionTear down called
+2023-09-12-08:39:28 INFO  BaseTest:setup: TastCase22 Test object for reporting is Created
+2023-09-12-08:39:29 INFO  Page : Dropdown Selected 
+2023-09-12-08:39:30 INFO  LoginPage : loginToApp : started
+2023-09-12-08:39:32 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-08:39:34 INFO  BaseTest:tearDown: public void test.LeadsTest.TastCase22() throws java.io.IOExceptionTear down called
+2023-09-12-08:47:22 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-08:47:22 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-08:47:23 INFO  LoginPage : loginToApp : started
+2023-09-12-08:47:24 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-08:47:24 INFO  BaseTest:setup: TestCase19 Test object for reporting is Created
+2023-09-12-08:47:30 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase19()Tear down called
+2023-09-12-08:47:30 INFO  BaseTest:setup: TestCase15 Test object for reporting is Created
+2023-09-12-08:47:31 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase15() throws java.io.IOExceptionTear down called
+2023-09-12-08:47:31 INFO  BaseTest:setup: TestCase16 Test object for reporting is Created
+2023-09-12-08:47:32 INFO  OpportunityPage :verifyAllopportunitiesItems : Failed To Match Opportunity Items 
+2023-09-12-08:47:32 INFO  OpportunityPage :verifyAllopportunitiesItems : Failed To Match Opportunity Items 
+2023-09-12-08:47:32 INFO  OpportunityPage :verifyAllopportunitiesItems : Failed To Match Opportunity Items 
+2023-09-12-08:47:32 INFO  OpportunityPage :verifyAllopportunitiesItems : Failed To Match Opportunity Items 
+2023-09-12-08:47:32 INFO  OpportunityPage :verifyAllopportunitiesItems : Failed To Match Opportunity Items 
+2023-09-12-08:47:32 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase16() throws java.io.IOExceptionTear down called
+2023-09-12-08:47:32 INFO  BaseTest:setup: TestCase17 Test object for reporting is Created
+2023-09-12-08:47:33 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase17(java.lang.reflect.Method)Tear down called
+2023-09-12-08:48:40 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-08:48:40 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-08:48:41 INFO  LoginPage : loginToApp : started
+2023-09-12-08:48:47 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-08:48:47 INFO  BaseTest:setup: TestCase19 Test object for reporting is Created
+2023-09-12-08:48:48 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase19()Tear down called
+2023-09-12-08:48:48 INFO  BaseTest:setup: TestCase15 Test object for reporting is Created
+2023-09-12-08:48:49 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase15() throws java.io.IOExceptionTear down called
+2023-09-12-08:50:34 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-08:50:34 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-08:50:35 INFO  LoginPage : loginToApp : started
+2023-09-12-08:50:35 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-08:50:35 INFO  BaseTest:setup: TestCase19 Test object for reporting is Created
+2023-09-12-08:50:42 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase19()Tear down called
+2023-09-12-08:51:33 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-08:51:33 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-08:51:34 INFO  LoginPage : loginToApp : started
+2023-09-12-08:51:35 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-08:51:35 INFO  BaseTest:setup: TestCase19 Test object for reporting is Created
+2023-09-12-08:51:41 INFO  BaseTest:tearDown: public void test.OpportunityTest.TestCase19()Tear down called
+2023-09-12-09:02:03 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-09:02:03 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-09:02:03 INFO  BaseTest:setup: loginTest03 Test object for reporting is Created
+2023-09-12-09:02:04 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-12-09:02:04 INFO  LoginPage : selectRememberMeCheckBox : Ended 
+2023-09-12-09:02:04 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest03() throws org.apache.poi.openxml4j.exceptions.InvalidFormatException,java.io.IOExceptionTear down called
+2023-09-12-09:02:04 INFO  BaseTest:setup: loginTest1 Test object for reporting is Created
+2023-09-12-09:02:05 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest1() throws java.io.IOExceptionTear down called
+2023-09-12-09:02:05 INFO  BaseTest:setup: loginTest2 Test object for reporting is Created
+2023-09-12-09:02:05 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest2() throws java.io.IOExceptionTear down called
+2023-09-12-09:02:05 INFO  BaseTest:setup: LoginTest03 Test object for reporting is Created
+2023-09-12-09:02:05 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-12-09:02:05 INFO  LoginPage : selectRememberMeCheckBox : Ended 
+2023-09-12-09:02:11 INFO  BaseTest:tearDown: public void test.LoginTest.LoginTest03(java.lang.reflect.Method) throws java.io.IOExceptionTear down called
+2023-09-12-09:02:11 INFO  BaseTest:setup: LoginTest04A Test object for reporting is Created
+2023-09-12-09:02:11 INFO  BaseTest:tearDown: public void test.LoginTest.LoginTest04A() throws java.io.IOExceptionTear down called
+2023-09-12-09:03:45 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-09:03:45 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-09:03:45 INFO  BaseTest:setup: loginTest03 Test object for reporting is Created
+2023-09-12-09:03:47 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-12-09:03:47 INFO  LoginPage : selectRememberMeCheckBox : Ended 
+2023-09-12-09:03:47 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest03() throws org.apache.poi.openxml4j.exceptions.InvalidFormatException,java.io.IOExceptionTear down called
+2023-09-12-09:03:47 INFO  BaseTest:setup: loginTest1 Test object for reporting is Created
+2023-09-12-09:03:48 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest1() throws java.io.IOExceptionTear down called
+2023-09-12-09:03:48 INFO  BaseTest:setup: loginTest2 Test object for reporting is Created
+2023-09-12-09:03:48 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest2() throws java.io.IOExceptionTear down called
+2023-09-12-09:03:48 INFO  BaseTest:setup: LoginTest03 Test object for reporting is Created
+2023-09-12-09:03:48 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-12-09:03:48 INFO  LoginPage : selectRememberMeCheckBox : Ended 
+2023-09-12-09:03:55 INFO  BaseTest:tearDown: public void test.LoginTest.LoginTest03(java.lang.reflect.Method) throws java.io.IOExceptionTear down called
+2023-09-12-09:03:55 INFO  BaseTest:setup: LoginTest04A Test object for reporting is Created
+2023-09-12-09:03:55 INFO  BaseTest:tearDown: public void test.LoginTest.LoginTest04A() throws java.io.IOExceptionTear down called
+2023-09-12-09:16:40 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-09:16:40 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-09:16:40 INFO  BaseTest:setup: loginTest1 Test object for reporting is Created
+2023-09-12-09:16:42 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest1() throws java.io.IOExceptionTear down called
+2023-09-12-09:16:42 INFO  BaseTest:setup: loginTest2 Test object for reporting is Created
+2023-09-12-09:16:42 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest2() throws java.io.IOExceptionTear down called
+2023-09-12-09:16:42 INFO  BaseTest:setup: LoginTest03 Test object for reporting is Created
+2023-09-12-09:16:42 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-12-09:16:42 INFO  LoginPage : selectRememberMeCheckBox : Ended 
+2023-09-12-09:16:49 INFO  BaseTest:tearDown: public void test.LoginTest.LoginTest03(java.lang.reflect.Method) throws java.io.IOExceptionTear down called
+2023-09-12-09:16:49 INFO  BaseTest:setup: LoginTest04A Test object for reporting is Created
+2023-09-12-09:16:49 INFO  BaseTest:tearDown: public void test.LoginTest.LoginTest04A() throws java.io.IOExceptionTear down called
+2023-09-12-09:16:49 INFO  BaseTest:setup: loginTest03 Test object for reporting is Created
+2023-09-12-09:16:49 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest03() throws org.apache.poi.openxml4j.exceptions.InvalidFormatException,java.io.IOExceptionTear down called
+2023-09-12-09:19:46 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-09:19:46 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-09:19:46 INFO  BaseTest:setup: LoginTest03 Test object for reporting is Created
+2023-09-12-09:19:48 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-12-09:19:48 INFO  LoginPage : selectRememberMeCheckBox : Ended 
+2023-09-12-09:19:55 INFO  BaseTest:tearDown: public void test.LoginTest.LoginTest03(java.lang.reflect.Method) throws java.io.IOExceptionTear down called
+2023-09-12-09:30:39 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-09:30:39 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-09:30:39 INFO  BaseTest:setup: LoginTest03 Test object for reporting is Created
+2023-09-12-09:30:39 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-12-09:30:39 INFO  BaseTest:tearDown: public void test.LoginTest.LoginTest03(java.lang.reflect.Method) throws java.io.IOExceptionTear down called
+2023-09-12-09:31:53 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-09:31:53 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-09:31:53 INFO  BaseTest:setup: LoginTest03 Test object for reporting is Created
+2023-09-12-09:31:53 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-12-09:31:53 INFO  BaseTest:tearDown: public void test.LoginTest.LoginTest03(java.lang.reflect.Method) throws java.io.IOExceptionTear down called
+2023-09-12-09:32:57 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-09:32:57 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-09:32:57 INFO  BaseTest:setup: LoginTest03 Test object for reporting is Created
+2023-09-12-09:32:57 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-12-09:32:57 INFO  BaseTest:tearDown: public void test.LoginTest.LoginTest03(java.lang.reflect.Method) throws java.io.IOExceptionTear down called
+2023-09-12-09:33:29 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-09:33:29 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-09:33:31 INFO  LoginPage : loginToApp : started
+2023-09-12-09:33:37 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-09:33:37 INFO  BaseTest:setup: LoginTest03 Test object for reporting is Created
+2023-09-12-09:33:37 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-12-09:33:37 INFO  BaseTest:tearDown: public void test.LoginTest.LoginTest03(java.lang.reflect.Method) throws java.io.IOExceptionTear down called
+2023-09-12-09:34:36 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-09:34:36 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-09:34:39 INFO  LoginPage : loginToApp : started
+2023-09-12-09:34:46 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-09:34:46 INFO  BaseTest:setup: LoginTest03 Test object for reporting is Created
+2023-09-12-09:34:46 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-12-09:34:46 INFO  LoginPage : selectRememberMeCheckBox : Ended 
+2023-09-12-09:34:48 INFO  BaseTest:tearDown: public void test.LoginTest.LoginTest03(java.lang.reflect.Method) throws java.io.IOExceptionTear down called
+2023-09-12-18:41:10 FATAL BaseTest : getBrowserType : Incorrect browser name supplied
+2023-09-12-18:41:10 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-18:44:53 FATAL BaseTest : getBrowserType : Incorrect browser name supplied
+2023-09-12-18:44:53 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-18:45:49 FATAL BaseTest : getBrowserType : Incorrect browser name supplied
+2023-09-12-18:45:49 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-18:50:25 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-18:50:25 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-18:50:27 INFO  LoginPage : loginToApp : started
+2023-09-12-18:50:33 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-18:50:33 INFO  BaseTest:setup: LoginTest03 Test object for reporting is Created
+2023-09-12-18:50:33 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-12-18:50:33 INFO  LoginPage : selectRememberMeCheckBox : Ended 
+2023-09-12-18:50:37 INFO  BaseTest:tearDown: public void test.LoginTest.LoginTest03(java.lang.reflect.Method) throws java.io.IOExceptionTear down called
+2023-09-12-18:50:37 INFO  BaseTest:setup: loginTest1 Test object for reporting is Created
+2023-09-12-18:50:37 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest1() throws java.io.IOExceptionTear down called
+2023-09-12-18:50:37 INFO  BaseTest:setup: loginTest2 Test object for reporting is Created
+2023-09-12-18:50:37 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest2() throws java.io.IOExceptionTear down called
+2023-09-12-18:52:04 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-18:52:04 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-18:52:06 INFO  LoginPage : loginToApp : started
+2023-09-12-18:52:13 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-18:52:13 INFO  BaseTest:setup: loginTest2 Test object for reporting is Created
+2023-09-12-18:52:13 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest2() throws java.io.IOExceptionTear down called
+2023-09-12-18:54:32 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-18:54:32 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-18:54:34 INFO  LoginPage : loginToApp : started
+2023-09-12-18:54:34 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-18:54:34 INFO  BaseTest:setup: TestCase33 Test object for reporting is Created
+2023-09-12-18:54:43 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase33()Tear down called
+2023-09-12-19:04:30 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-19:04:30 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-19:04:32 INFO  LoginPage : loginToApp : started
+2023-09-12-19:04:32 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-19:04:32 INFO  BaseTest:setup: TestCase33 Test object for reporting is Created
+2023-09-12-19:04:39 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase33()Tear down called
+2023-09-12-19:07:27 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-19:07:27 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-19:07:29 INFO  LoginPage : loginToApp : started
+2023-09-12-19:07:30 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-19:07:30 INFO  BaseTest:setup: TestCase33 Test object for reporting is Created
+2023-09-12-19:07:38 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase33()Tear down called
+2023-09-12-19:09:13 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-19:09:13 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-19:09:36 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-19:09:36 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-19:09:37 INFO  LoginPage : loginToApp : started
+2023-09-12-19:09:43 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-19:09:43 INFO  BaseTest:setup: TestCase33 Test object for reporting is Created
+2023-09-12-19:09:44 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase33()Tear down called
+2023-09-12-19:12:07 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-19:12:07 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-19:12:09 INFO  LoginPage : loginToApp : started
+2023-09-12-19:12:15 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-19:12:15 INFO  BaseTest:setup: TestCase33 Test object for reporting is Created
+2023-09-12-19:12:16 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase33()Tear down called
+2023-09-12-19:13:35 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-19:13:35 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-19:13:36 INFO  LoginPage : loginToApp : started
+2023-09-12-19:13:43 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-19:13:43 INFO  BaseTest:setup: TestCase33 Test object for reporting is Created
+2023-09-12-19:13:44 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase33()Tear down called
+2023-09-12-19:16:31 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-19:16:31 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-19:16:33 INFO  LoginPage : loginToApp : started
+2023-09-12-19:16:39 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-19:16:39 INFO  BaseTest:setup: TestCase33 Test object for reporting is Created
+2023-09-12-19:16:40 INFO  Page : verifyElementDisplayed 
+2023-09-12-19:16:41 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase33()Tear down called
+2023-09-12-19:17:28 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-19:17:28 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-19:17:30 INFO  LoginPage : loginToApp : started
+2023-09-12-19:17:40 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-19:17:40 INFO  BaseTest:setup: TestCase33 Test object for reporting is Created
+2023-09-12-19:17:41 INFO  Page : verifyElementDisplayed 
+2023-09-12-19:17:42 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase33()Tear down called
+2023-09-12-19:20:50 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-19:20:50 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-19:20:52 INFO  LoginPage : loginToApp : started
+2023-09-12-19:20:52 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-19:20:52 INFO  BaseTest:setup: TestCase33 Test object for reporting is Created
+2023-09-12-19:20:58 INFO  Page : verifyElementDisplayed 
+2023-09-12-19:21:00 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase33()Tear down called
+2023-09-12-19:46:24 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-19:46:24 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-19:46:25 INFO  LoginPage : loginToApp : started
+2023-09-12-19:46:35 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-19:46:35 INFO  BaseTest:setup: TestCase33 Test object for reporting is Created
+2023-09-12-19:46:37 INFO  Page : verifyElementDisplayed 
+2023-09-12-19:46:39 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase33()Tear down called
+2023-09-12-19:58:08 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-19:58:08 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-19:58:10 INFO  LoginPage : loginToApp : started
+2023-09-12-19:58:10 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-19:58:10 INFO  BaseTest:setup: TestCase33 Test object for reporting is Created
+2023-09-12-19:58:20 INFO  Page : verifyElementDisplayed 
+2023-09-12-19:58:21 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase33()Tear down called
+2023-09-12-20:06:44 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-20:06:44 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-20:06:45 INFO  LoginPage : loginToApp : started
+2023-09-12-20:06:52 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-20:06:52 INFO  BaseTest:setup: TestCase33 Test object for reporting is Created
+2023-09-12-20:06:54 INFO  Page : verifyElementDisplayed 
+2023-09-12-20:06:55 INFO  BaseTest:tearDown: public void test.RandomScenariosTest.TestCase33()Tear down called
+2023-09-12-20:57:46 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-20:57:46 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-20:57:47 INFO  LoginPage : loginToApp : started
+2023-09-12-20:57:48 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-20:57:48 INFO  BaseTest:setup: TestCase10 Test object for reporting is Created
+2023-09-12-20:57:56 INFO  Page : assaigned InputValue 
+2023-09-12-20:57:56 INFO  Page : Dropdown Selected 
+2023-09-12-20:57:56 INFO  Page : Dropdown Selected 
+2023-09-12-20:57:57 INFO  BaseTest:tearDown: public void test.AccountTest.TestCase10() throws java.io.IOExceptionTear down called
+2023-09-12-20:57:57 INFO  BaseTest:setup: TestCase11 Test object for reporting is Created
+2023-09-12-20:57:59 INFO  Account Viewname Changed
+2023-09-12-22:53:01 FATAL BaseTest : getBrowserType : Incorrect browser name supplied
+2023-09-12-22:53:01 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-22:53:55 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-22:53:55 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-22:53:56 INFO  LoginPage : loginToApp : started
+2023-09-12-22:53:57 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-22:53:57 INFO  BaseTest:setup: loginTest1 Test object for reporting is Created
+2023-09-12-22:54:02 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest1() throws java.io.IOExceptionTear down called
+2023-09-12-22:54:02 INFO  BaseTest:setup: loginTest2 Test object for reporting is Created
+2023-09-12-22:54:02 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest2() throws java.io.IOExceptionTear down called
+2023-09-12-22:57:52 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-22:57:52 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-22:57:53 INFO  LoginPage : loginToApp : started
+2023-09-12-22:58:00 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-22:58:00 INFO  BaseTest:setup: loginTest1 Test object for reporting is Created
+2023-09-12-22:58:00 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest1() throws java.io.IOExceptionTear down called
+2023-09-12-22:58:00 INFO  BaseTest:setup: loginTest2 Test object for reporting is Created
+2023-09-12-22:58:00 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest2() throws java.io.IOExceptionTear down called
+2023-09-12-22:59:56 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-22:59:56 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-22:59:58 INFO  LoginPage : loginToApp : started
+2023-09-12-22:59:59 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-22:59:59 INFO  BaseTest:setup: loginTest2 Test object for reporting is Created
+2023-09-12-23:00:05 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest2() throws java.io.IOExceptionTear down called
+2023-09-12-23:00:05 INFO  BaseTest:setup: loginTest1 Test object for reporting is Created
+2023-09-12-23:00:06 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest1() throws java.io.IOExceptionTear down called
+2023-09-12-23:02:19 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-23:02:19 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-23:02:21 INFO  LoginPage : loginToApp : started
+2023-09-12-23:02:21 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-23:02:21 INFO  BaseTest:setup: loginTest2 Test object for reporting is Created
+2023-09-12-23:02:27 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest2() throws java.io.IOExceptionTear down called
+2023-09-12-23:02:27 INFO  BaseTest:setup: loginTest1 Test object for reporting is Created
+2023-09-12-23:02:27 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest1() throws java.io.IOExceptionTear down called
+2023-09-12-23:02:27 INFO  BaseTest:setup: loginTest03 Test object for reporting is Created
+2023-09-12-23:02:28 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-12-23:02:28 INFO  LoginPage : selectRememberMeCheckBox : Ended 
+2023-09-12-23:02:28 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest03() throws org.apache.poi.openxml4j.exceptions.InvalidFormatException,java.io.IOExceptionTear down called
+2023-09-12-23:21:16 INFO  BaseTest : getBrowserType : Headless Chrome configured
+2023-09-12-23:21:16 INFO  BaseTest : setDriver : Spark report configured 
+2023-09-12-23:21:18 INFO  LoginPage : loginToApp : started
+2023-09-12-23:21:18 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-23:21:18 INFO  BaseTest:setup: loginTest2 Test object for reporting is Created
+2023-09-12-23:21:24 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest2() throws java.io.IOExceptionTear down called
+2023-09-12-23:21:24 INFO  BaseTest:setup: loginTest1 Test object for reporting is Created
+2023-09-12-23:21:24 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest1() throws java.io.IOExceptionTear down called
+2023-09-12-23:21:24 INFO  BaseTest:setup: loginTest03 Test object for reporting is Created
+2023-09-12-23:21:25 INFO  LoginPage : selectRememberMeCheckBox : Started 
+2023-09-12-23:21:25 INFO  LoginPage : selectRememberMeCheckBox : Ended 
+2023-09-12-23:21:25 INFO  BaseTest:tearDown: public void test.LoginTest.loginTest03() throws org.apache.poi.openxml4j.exceptions.InvalidFormatException,java.io.IOExceptionTear down called
+2023-09-12-23:21:25 INFO  LoginPage : loginToApp : started
+2023-09-12-23:21:27 INFO  LoginPage : LoginToApp : Closed 
+2023-09-12-23:21:27 INFO  BaseTest:setup: usermenuDropdown_TC07 Test object for reporting is Created
+2023-09-12-23:21:32 INFO  Page : Dropdown Selected 
+2023-09-12-23:21:32 INFO  Page : Dropdown Selected 
+2023-09-12-23:21:34 INFO  BaseTest:tearDown: public void test.UsermenuTest.usermenuDropdown_TC07(java.lang.reflect.Method) throws java.io.IOExceptionTear down called
+2023-09-12-23:21:34 INFO  BaseTest:setup: userMenuDropdown_08 Test object for reporting is Created
+2023-09-12-23:21:34 INFO  BaseTest:tearDown: public void test.UsermenuTest.userMenuDropdown_08() throws java.io.IOExceptionTear down called
+2023-09-12-23:21:34 INFO  BaseTest:setup: usermenuDropDown_TC05 Test object for reporting is Created

@@ -16,7 +16,7 @@ public class TestCase5 {
 		ChromeDriver driver = new ChromeDriver();
 		
 		driver.get("https://login.salesforce.com");
-		driver.findElement(By.id("username")).sendKeys("sreeedamana@hon.com");
+		driver.findElement(By.id("username")).sendKeys("sreeedamana@qa.com");
 		driver.findElement(By.id("password")).sendKeys("asksree530");
 		driver.findElement(By.id("Login")).click();
 		

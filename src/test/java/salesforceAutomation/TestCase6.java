@@ -15,7 +15,7 @@ public class TestCase6 {
 		ChromeDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://login.salesforce.com");
-		driver.findElement(By.id("username")).sendKeys("sreeedamana@hon.com");
+		driver.findElement(By.id("username")).sendKeys("sreeedamana@qa.com");
 		driver.findElement(By.id("password")).sendKeys("asksree530");
 		driver.findElement(By.id("Login")).click();
 		
@@ -29,17 +29,46 @@ public class TestCase6 {
        
 		driver.switchTo().frame(2);
 		driver.findElement(By.linkText("About")).click();
+		// User Profile page change lastname 
 		
-		driver.findElement(By.id("lastName")).sendKeys("kumar");
+		WebElement lastname =driver.findElement(By.id("lastName"));
+		lastname.clear();
+		lastname.sendKeys("kumar");
 		driver.findElement(By.xpath("//input[@value = 'Save All']")).click();
 		driver.switchTo().parentFrame();
-		
+		//Edit Post Link
 		driver.findElement(By.id("publisherAttachTextPost")).click();
-		driver.findElement(By.xpath("//*[@id=\"cke_43_contents\"]/iframe")).sendKeys("Text is Here");
-		//WebElement postIframe = driver.findElement(By.xpath("//iframe[contains9@title,'Rich Text Editor,publisherRichTextEditor')]"));
-		//driver.switchTo().frame(1);
+		WebElement postIframe =  driver.findElement(By.xpath("//iframe[contains(@title,'Rich Text Editor, publisherRichTextEditor')]"));
+		driver.switchTo().frame(postIframe);
+		WebElement postBody = driver.findElement(By.xpath("//html[1]/body[1]"));
+		postBody.click();
+		postBody.sendKeys("Test data");
+		String parent = driver.getWindowHandle();
+		driver.switchTo().window(parent);
+		driver.findElement(By.id("publishersharebutton")).click();
 		
-		///html
-	}    ////*[@id="cke_43_contents"]/iframe
+		// Uploading a file
+		Thread.sleep(3000);
+		driver.findElement(By.id("publisherAttachContentPost")).click();
+		Thread.sleep(3000);
+		driver.findElement(By.id("chatterUploadFileAction")).click();
+		Thread.sleep(3000);
+		driver.findElement(By.xpath("//input[@id='chatterFile']")).sendKeys("C:\\Users\\smann\\OneDrive\\Pictures\\hey bro.png");
+		Thread.sleep(3000);
+		driver.findElement(By.id("publishersharebutton")).click();
+		Thread.sleep(5000);
+		//
+		
+		//Change profile photo
+		driver.findElement(By.xpath("//div[@id='photoSection']//img[@class='chatter-photo']")).click();
+		driver.findElement(By.id("uploadLink")).click();
+		Thread.sleep(3000);
+		WebElement editImage =  driver.findElement(By.id("uploadPhotoContentId"));
+		driver.switchTo().frame(editImage);
+		driver.findElement(By.id("j_id0:uploadFileForm:uploadInputFile")).sendKeys("C:\\Users\\smann\\OneDrive\\Pictures\\hey bro.png");
+		driver.findElement(By.id("j_id0:uploadFileForm:uploadBtn")).click();
+		Thread.sleep(3000);
+		driver.findElement(By.id("j_id0:j_id7:save")).click();
+	}    
 
 }

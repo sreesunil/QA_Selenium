@@ -21,11 +21,13 @@ public class Reusablecodes {
 			
 			driver.get("https://login.salesforce.com");
 			
-			driver.findElement(By.id("username")).sendKeys("sreeedamana@hon.com");
+			driver.findElement(By.id("username")).sendKeys("sreeedamana@qa.com");
 			
 			driver.findElement(By.id("password")).sendKeys("asksree530");
 			
 			driver.findElement(By.id("Login")).click();
+			driver.manage().window().maximize();
+			
 			return driver;
 	}   
 
@@ -42,6 +44,8 @@ public class Reusablecodes {
 			driver.findElement(By.id("password")).sendKeys("asksree530");
 			
 			driver.findElement(By.id("Login")).click();
+			driver.manage().window().maximize();
+			
 			return driver;
 	}     
 

@@ -23,7 +23,7 @@ public class TestCase3{
 		driver.get("https://login.salesforce.com");
 		
 		//Enter username
-		driver.findElement(By.id("username")).sendKeys("sreeedamana@hon.com");
+		driver.findElement(By.id("username")).sendKeys("sreeedamana@qa.com");
 		
 		//Password Enter
 		driver.findElement(By.id("password")).sendKeys("asksree530");

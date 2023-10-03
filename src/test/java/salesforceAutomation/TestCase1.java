@@ -16,7 +16,7 @@ public class TestCase1 {
 		driver.get("https://login.salesforce.com");
 		
 		//Enter username  
-		driver.findElement(By.id("username")).sendKeys("sreeedamana@hon.com");
+		driver.findElement(By.id("username")).sendKeys("sreeedamana@qa.com");
 		//Login
 		driver.findElement(By.id("Login")).click();
 		

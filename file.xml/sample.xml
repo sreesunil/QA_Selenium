@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="5">
+	
+	<parameter name="browserName" value="chrome"></parameter>
+	<parameter name="isHeadless" value="false"></parameter>
+  <test name="Login">
+	  <classes>
+		  <class name="test.LoginTest"></class> 
+		  <class name="test.UsermenuTest"></class> 
+		  <class name=""></class>
+	  </classes>
+  </test> 
+</suite> 
