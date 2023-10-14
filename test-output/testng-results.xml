@@ -1,17 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-30T12:23:10 PDT" name="Default suite" finished-at="2023-09-30T12:23:14 PDT" duration-ms="4166">
+  <suite started-at="2023-10-13T19:16:57 PDT" name="Default suite" finished-at="2023-10-13T19:17:30 PDT" duration-ms="33166">
     <groups>
     </groups>
-    <test started-at="2023-09-30T12:23:10 PDT" name="Default test" finished-at="2023-09-30T12:23:14 PDT" duration-ms="4166">
-      <class name="selenium.ListenersDemo">
-        <test-method signature="test01()[pri:0, instance:selenium.ListenersDemo@682b2fa]" started-at="2023-09-30T12:23:10 PDT" name="test01" finished-at="2023-09-30T12:23:14 PDT" duration-ms="4124" status="PASS">
+    <test started-at="2023-10-13T19:16:57 PDT" name="Default test" finished-at="2023-10-13T19:17:30 PDT" duration-ms="33166">
+      <class name="test.RandomScenariosTest">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:test.RandomScenariosTest@18e7143f]" started-at="2023-10-13T19:16:57 PDT" name="setDriver" finished-at="2023-10-13T19:16:59 PDT" duration-ms="1829" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test01 -->
-      </class> <!-- selenium.ListenersDemo -->
+        </test-method> <!-- setDriver -->
+        <test-method is-config="true" signature="navigateToHome()[pri:0, instance:test.RandomScenariosTest@18e7143f]" started-at="2023-10-13T19:16:59 PDT" name="navigateToHome" finished-at="2023-10-13T19:17:07 PDT" duration-ms="8048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHome -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:test.RandomScenariosTest@18e7143f]" started-at="2023-10-13T19:17:07 PDT" name="setup" finished-at="2023-10-13T19:17:07 PDT" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.RandomScenariosTest.TestCase33()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestCase33()[pri:0, instance:test.RandomScenariosTest@18e7143f]" started-at="2023-10-13T19:17:07 PDT" name="TestCase33" finished-at="2023-10-13T19:17:12 PDT" duration-ms="5651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase33 -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:test.RandomScenariosTest@18e7143f]" started-at="2023-10-13T19:17:12 PDT" name="tearDown" finished-at="2023-10-13T19:17:12 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.RandomScenariosTest.TestCase33()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="TestCase37()[pri:0, instance:test.RandomScenariosTest@18e7143f]" started-at="2023-10-13T19:17:12 PDT" name="TestCase37" description="Blocking an event in the " finished-at="2023-10-13T19:17:18 PDT" duration-ms="6086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase37 -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:test.RandomScenariosTest@18e7143f]" started-at="2023-10-13T19:17:12 PDT" name="setup" finished-at="2023-10-13T19:17:12 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.RandomScenariosTest.TestCase37()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:test.RandomScenariosTest@18e7143f]" started-at="2023-10-13T19:17:18 PDT" name="tearDown" finished-at="2023-10-13T19:17:18 PDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.RandomScenariosTest.TestCase37()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="TestCase34()[pri:2, instance:test.RandomScenariosTest@18e7143f]" started-at="2023-10-13T19:17:18 PDT" name="TestCase34" finished-at="2023-10-13T19:17:22 PDT" duration-ms="3760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase34 -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:test.RandomScenariosTest@18e7143f]" started-at="2023-10-13T19:17:18 PDT" name="setup" finished-at="2023-10-13T19:17:18 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:test.RandomScenariosTest@18e7143f]" started-at="2023-10-13T19:17:22 PDT" name="tearDown" finished-at="2023-10-13T19:17:22 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.RandomScenariosTest.TestCase34() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="TestCase35()[pri:3, instance:test.RandomScenariosTest@18e7143f]" started-at="2023-10-13T19:17:22 PDT" name="TestCase35" finished-at="2023-10-13T19:17:29 PDT" duration-ms="7297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase35 -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:test.RandomScenariosTest@18e7143f]" started-at="2023-10-13T19:17:22 PDT" name="setup" finished-at="2023-10-13T19:17:22 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.RandomScenariosTest.TestCase35() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method)[pri:0, instance:test.RandomScenariosTest@18e7143f]" started-at="2023-10-13T19:17:29 PDT" name="tearDown" finished-at="2023-10-13T19:17:29 PDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.RandomScenariosTest.TestCase35() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="removeDriver()[pri:0, instance:test.RandomScenariosTest@18e7143f]" started-at="2023-10-13T19:17:29 PDT" name="removeDriver" finished-at="2023-10-13T19:17:30 PDT" duration-ms="449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeDriver -->
+      </class> <!-- test.RandomScenariosTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

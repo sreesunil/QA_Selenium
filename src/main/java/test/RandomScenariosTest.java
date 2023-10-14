@@ -27,7 +27,7 @@ public class RandomScenariosTest extends BaseTest{
 		lp.loginToApp(driver);
 	}
 	
-	//@Test
+	@Test
 	public void TestCase33(){
 		
 		WebDriver driver = BaseTest.getDriver();
@@ -40,7 +40,7 @@ public class RandomScenariosTest extends BaseTest{
 	
 	
 	//(description = "Edit Profile LastName")
-	//@Test(priority = 2)
+	@Test(priority = 2)
 	public void TestCase34() throws InterruptedException {
 		
 		
@@ -58,7 +58,7 @@ public class RandomScenariosTest extends BaseTest{
 	
 	//(description = "Verify the Tab Customization ")
 	
-	//@Test (priority = 3)
+	@Test (priority = 3)
 	public void TestCase35() throws IOException {
 		
 		
